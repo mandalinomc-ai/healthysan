@@ -45,31 +45,29 @@ export function Header() {
           : "border-b border-transparent bg-cream-50/70 backdrop-blur-md"
       }`}
     >
-      <div className="mx-auto flex min-h-16 max-w-6xl items-center justify-between gap-3 px-4 py-1 sm:min-h-[4.25rem] sm:px-6">
+      <div className="mx-auto flex min-h-16 max-w-6xl items-center justify-between gap-4 px-4 py-1 sm:min-h-[4.25rem] sm:px-6 lg:gap-6">
         <Link
           href="/"
-          aria-label={`${site.shortName} Beauty & Spa`}
-          className="flex shrink-0 items-center"
+          className="relative z-[92] mr-2 flex w-[132px] shrink-0 items-center sm:w-[152px] lg:mr-6 lg:w-[168px]"
           onClick={() => setMenuOpen(false)}
         >
           <SiteLogo
             variant="header"
             priority
-            width={180}
-            height={54}
-            className="h-10 w-auto object-contain sm:h-11"
+            className="h-8 w-full object-contain sm:h-9 lg:h-10"
           />
+          <span className="sr-only">{site.shortName} Beauty &amp; Spa</span>
         </Link>
 
         <nav
-          className="hidden min-w-0 flex-1 items-center justify-center gap-x-0.5 overflow-visible px-1 lg:flex lg:gap-x-1 xl:gap-x-2"
+          className="relative z-[91] hidden min-w-0 flex-1 items-center justify-center gap-x-2 overflow-x-auto px-2 lg:flex lg:gap-x-3 xl:gap-x-4"
           aria-label="Navigazione principale"
         >
           {nav.map((item) => (
             <Link
               key={item.href}
               href={item.href}
-              className="whitespace-nowrap rounded-full px-1.5 py-1 text-[11px] font-medium text-charcoal/75 transition hover:bg-white/50 hover:text-charcoal xl:px-2 xl:text-xs"
+              className="whitespace-nowrap rounded-full px-2 py-1 text-xs font-medium text-charcoal/75 transition hover:bg-white/50 hover:text-charcoal xl:text-sm"
               onClick={() => setMenuOpen(false)}
             >
               {item.label}

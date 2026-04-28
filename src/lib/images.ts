@@ -56,22 +56,6 @@ export const images = {
 
 export const VOUCHER_GALLERY_COUNT = 7;
 
-export type ProductImageKey = "fragoline" | "antiEta" | "liftante";
-
-/** Candidati file prodotto in ordine di preferenza (alta risoluzione originali). */
-export function productImagePaths(key: ProductImageKey): `/images/${string}`[] {
-  if (key === "fragoline") {
-    return [
-      imagePath("fragoline.jpg"),
-      imagePath("kit fragoline di bosco healthysan.jpg"),
-    ];
-  }
-  if (key === "antiEta") {
-    return [imagePath("crema viso anti eta healthysan.jpg")];
-  }
-  return [imagePath("crema viso liftante healthysan.jpg")];
-}
-
 /** Candidati immagine per lo slot voucher n (1-based), in ordine di prova (.jpg poi .png). */
 export function voucherGalleryPaths(slotIndex1Based: number): `/images/${string}`[] {
   const n = slotIndex1Based;

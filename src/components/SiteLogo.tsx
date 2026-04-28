@@ -3,6 +3,7 @@
 import Image from "next/image";
 import { useState } from "react";
 import { LOGO_PATHS } from "@/lib/images";
+import { site } from "@/lib/site";
 
 type SiteLogoProps = {
   className?: string;
@@ -39,31 +40,25 @@ export function SiteLogo({
 
   if (exhausted) {
     return (
-      <div className="inline-flex items-center">
-        <span
-          className={`inline-flex h-8 w-8 items-center justify-center rounded-full border text-xs font-semibold tracking-wider ${
-            variant === "footer" || variant === "darkCard"
-              ? "border-gold-300/45 bg-white/10 text-gold-200"
-              : "border-charcoal/25 bg-white text-charcoal"
-          }`}
-          aria-hidden
-        >
-          HS
-        </span>
-      </div>
+      <span
+        className={`font-serif text-lg font-semibold tracking-tight ${
+          variant === "footer" || variant === "darkCard" ? "text-cream-50" : "text-charcoal"
+        } ${className ?? ""}`}
+      >
+        {site.shortName}
+      </span>
     );
   }
 
   return (
     <Image
       src={src}
-      alt=""
-      aria-hidden
+      alt={`${site.name} logo`}
       width={width}
       height={height}
+      unoptimized
       priority={priority}
-      quality={100}
-      className={`${className} ${useNegativeFilter ? "brightness-0 invert" : ""} ${toneClass} shrink-0 [image-rendering:-webkit-optimize-contrast]`}
+      className={`${className} ${useNegativeFilter ? "brightness-0 invert" : ""} ${toneClass} shrink-0`}
       onError={() => setIndex((i) => i + 1)}
     />
   );

@@ -1,6 +1,5 @@
 import { images } from "@/lib/images";
 import { whatsappConsultUrl } from "@/lib/site";
-import { RemotePurchaseButton } from "./RemotePurchaseButton";
 import { Reveal } from "./Reveal";
 import { SafeImage } from "./SafeImage";
 import { SiteLogo } from "./SiteLogo";
@@ -62,11 +61,6 @@ export function GiftCardVouchers() {
                 >
                   Richiedi informazioni voucher
                 </a>
-                <RemotePurchaseButton
-                  itemName="Voucher regalo HealthySan"
-                  label="Acquista a distanza"
-                  className="mt-5"
-                />
               </div>
               <div className="rounded-2xl border border-gold-500/20 bg-cream-50/80 p-4">
                 <VoucherGallery />
@@ -108,11 +102,6 @@ export function GiftCardVouchers() {
                     Utilizzabile per trattamenti e linea prodotti in sede
                   </li>
                 </ul>
-                <RemotePurchaseButton
-                  itemName="Gift Card ricaricabile HealthySan"
-                  label="Acquista a distanza"
-                  className="mt-6"
-                />
               </div>
 
               <div className="relative mx-auto w-full max-w-[340px] lg:mx-0">

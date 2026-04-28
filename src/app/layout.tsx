@@ -90,10 +90,9 @@ export default function RootLayout({
   return (
     <html
       lang="it"
-      suppressHydrationWarning
       className={`${display.variable} ${playfair.variable} ${dmSans.variable}`}
     >
-      <body suppressHydrationWarning className="font-sans antialiased">
+      <body className="font-sans antialiased">
         <JsonLd />
         {children}
       </body>

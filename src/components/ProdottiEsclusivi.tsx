@@ -1,9 +1,8 @@
 "use client";
 
 import Image from "next/image";
-import { useCallback, useState } from "react";
 import { IMAGE_POLISH } from "@/lib/imageStyles";
-import { productImagePaths, type ProductImageKey } from "@/lib/images";
+import { images } from "@/lib/images";
 import { RemotePurchaseButton } from "./RemotePurchaseButton";
 import { Reveal } from "./Reveal";
 import { TiltCard } from "./motion/TiltCard";
@@ -12,59 +11,23 @@ import { usePrefersReducedMotion } from "./motion/usePrefersReducedMotion";
 const products = [
   {
     name: "Kit Fragoline di Bosco HealthySan",
-    imageKey: "fragoline",
+    src: images.productKitFragoline,
     description:
       "Un trattamento sensoriale completo alle fragoline di bosco per nutrire la pelle e deliziare i sensi.",
   },
   {
     name: "Crema Viso Anti-Età HealthySan",
-    imageKey: "antiEta",
+    src: images.productCremaAntiEta,
     description:
       "Formulazione avanzata per contrastare i segni del tempo e donare luminosità immediata.",
   },
   {
     name: "Crema Viso Liftante HealthySan",
-    imageKey: "liftante",
+    src: images.productCremaLiftante,
     description:
       "Effetto lifting immediato e idratazione profonda per una pelle visibilmente più giovane.",
   },
-] as const satisfies ReadonlyArray<{
-  name: string;
-  imageKey: ProductImageKey;
-  description: string;
-}>;
-
-function ProductCardImage({
-  imageKey,
-  alt,
-  priority,
-}: {
-  imageKey: ProductImageKey;
-  alt: string;
-  priority: boolean;
-}) {
-  const candidates = productImagePaths(imageKey);
-  const [index, setIndex] = useState(0);
-
-  const onError = useCallback(() => {
-    setIndex((i) => i + 1);
-  }, []);
-
-  const src = candidates[index] ?? candidates[candidates.length - 1];
-
-  return (
-    <Image
-      src={src}
-      alt={alt}
-      fill
-      priority={priority}
-      sizes="(min-width: 1024px) 18vw, (min-width: 640px) 35vw, 70vw"
-      unoptimized
-      className={`object-contain p-1 ${IMAGE_POLISH}`}
-      onError={onError}
-    />
-  );
-}
+] as const;
 
 export function ProdottiEsclusivi() {
   const reduced = usePrefersReducedMotion();
@@ -106,7 +69,15 @@ export function ProdottiEsclusivi() {
                           : { animationDuration: `${4.8 + i * 0.35}s` }
                       }
                     >
-                      <ProductCardImage imageKey={p.imageKey} alt={p.name} priority={i === 0} />
+                      <Image
+                        src={p.src}
+                        alt={p.name}
+                        fill
+                        priority={i === 0}
+                        sizes="(min-width: 1024px) 18vw, (min-width: 640px) 35vw, 70vw"
+                        unoptimized
+                        className={`object-contain p-1 ${IMAGE_POLISH}`}
+                      />
                     </div>
                   </TiltCard>
                   <div className="pt-5">

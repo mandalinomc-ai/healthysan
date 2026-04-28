@@ -38,9 +38,6 @@ export const site = {
     tiktok: "https://www.tiktok.com/@healthysan",
     facebook: "https://www.facebook.com/healthysan/",
   },
-  /** URL embed di un Reel/post Instagram (formato .../reel/<id>/embed). */
-  instagramVideoEmbedUrl:
-    "https://www.instagram.com/reel/C9m3xW5oBfN/embed",
   mapsSearchQuery:
     "HealthySan Beauty & Spa, Via Orbilio Pupillo 4, 82100 Benevento BN, Italia",
   /** Messaggio precompilato WhatsApp (italiano) */
