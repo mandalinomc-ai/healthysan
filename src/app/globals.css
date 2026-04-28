@@ -1,0 +1,51 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-surface: #f9f8f3;
+  --color-elevated: #ffffff;
+  --luxury-gold: #d4af37;
+  --luxury-charcoal: #1a1a1a;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+html.immersive-cursor-active body {
+  cursor: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html.immersive-cursor-active body {
+    cursor: auto;
+  }
+}
+
+body {
+  @apply bg-cream-50 text-ink antialiased;
+}
+
+::selection {
+  @apply bg-gold-500/25 text-charcoal;
+}
+
+@layer components {
+  /** Marcelo-style frosted glass + floating depth */
+  .glass-card {
+    @apply rounded-[1.75rem] border border-white/10 bg-white/5 shadow-[0_20px_50px_rgba(0,0,0,0.5)] backdrop-blur-xl backdrop-saturate-150;
+  }
+
+  .glass-card-dark {
+    @apply rounded-[1.75rem] border border-white/10 bg-charcoal/75 text-cream-50 shadow-[0_24px_60px_rgba(0,0,0,0.55)] backdrop-blur-xl;
+  }
+
+  .glass-inline {
+    @apply rounded-xl border border-white/10 bg-white/5 backdrop-blur-xl;
+  }
+
+  .editorial-overlap {
+    @apply relative md:-mr-8 md:translate-x-4 lg:-mr-16 lg:translate-x-8;
+  }
+}

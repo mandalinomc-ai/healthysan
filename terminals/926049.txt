@@ -1,0 +1,137 @@
+---
+pid: 29024
+cwd: "C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40"
+command: "Set-Location \"C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\"; & \"C:\\Program Files\\nodejs\\npm.cmd\" run dev"
+started_at: 2026-04-28T02:28:55.615Z
+running_for_ms: 3770013  
+---
+
+> healthysan-landing@0.1.0 dev
+> next dev
+
+ ⚠ Port 3000 is in use, trying 3001 instead.
+ ⚠ Port 3001 is in use, trying 3002 instead.
+ ⚠ Port 3002 is in use, trying 3003 instead.
+ ⚠ Port 3003 is in use, trying 3004 instead.
+ ⚠ Port 3004 is in use, trying 3005 instead.
+ ⚠ Port 3005 is in use, trying 3006 instead.
+ ⚠ Port 3006 is in use, trying 3007 instead.
+ ⚠ Port 3007 is in use, trying 3008 instead.
+ ⚠ Port 3008 is in use, trying 3009 instead.
+   ▲ Next.js 15.1.3
+   - Local:        http://localhost:3009
+   - Network:      http://192.168.0.59:3009
+
+ ✓ Starting...
+ ✓ Ready in 1914ms
+ ○ Compiling / ...
+ ✓ Compiled / in 5.6s (1456 modules)
+ ✓ Compiled in 1101ms (695 modules)
+ GET / 200 in 6824ms
+ ✓ Compiled /urban-spa in 425ms (1423 modules)
+ GET /urban-spa 200 in 512ms
+ ✓ Compiled /servizi in 321ms (1429 modules)
+ GET /servizi 200 in 414ms
+ ✓ Compiled /trattamenti in 333ms (1438 modules)
+ GET /trattamenti 200 in 405ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 554ms (1442 modules)
+ GET /images/retinol%20bioline.jpg 404 in 701ms
+ ⨯ The requested resource isn't a valid image for /images/retinol%20bioline.jpg received text/html; charset=utf-8
+ GET /images/retinol%20bioline.png 404 in 14ms
+ ⨯ The requested resource isn't a valid image for /images/retinol%20bioline.png received text/html; charset=utf-8
+ GET / 200 in 33ms
+ ○ Compiling /voucher-regalo ...
+ ✓ Compiled /voucher-regalo in 798ms (1470 modules)
+ GET /voucher-regalo 200 in 863ms
+ GET /voucher-regalo 200 in 22ms
+ GET /images/voucher%201.jpg 404 in 122ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%201.jpg received text/html; charset=utf-8
+ GET /images/voucher%202.jpg 404 in 122ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%202.jpg received text/html; charset=utf-8
+ GET /images/voucher%203.jpg 404 in 123ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%203.jpg received text/html; charset=utf-8
+ GET /images/voucher%205.jpg 404 in 125ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%205.jpg received text/html; charset=utf-8
+ GET /images/voucher%206.jpg 404 in 126ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%206.jpg received text/html; charset=utf-8
+ GET /images/voucher%207.jpg 404 in 127ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%207.jpg received text/html; charset=utf-8
+ GET /images/gift%20card%20coppia.jpg 404 in 17ms
+ ⨯ The requested resource isn't a valid image for /images/gift%20card%20coppia.jpg received text/html; charset=utf-8
+ GET /images/voucher%201.jpg 404 in 45ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%201.jpg received text/html; charset=utf-8
+ GET /images/voucher%202.jpg 404 in 46ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%202.jpg received text/html; charset=utf-8
+ GET /images/voucher%203.jpg 404 in 46ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%203.jpg received text/html; charset=utf-8
+ GET /images/voucher%205.jpg 404 in 47ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%205.jpg received text/html; charset=utf-8
+ GET /images/voucher%206.jpg 404 in 48ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%206.jpg received text/html; charset=utf-8
+ GET /images/voucher%207.jpg 404 in 49ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%207.jpg received text/html; charset=utf-8
+ GET /images/gift%20card%20coppia.jpg 404 in 10ms
+ ⨯ The requested resource isn't a valid image for /images/gift%20card%20coppia.jpg received text/html; charset=utf-8
+ GET /voucher-regalo 200 in 14ms
+ GET /voucher-regalo 200 in 13ms
+ ✓ Compiled in 1257ms (1466 modules)
+ GET /voucher-regalo 200 in 139ms
+ ✓ Compiled in 857ms (1466 modules)
+ GET /voucher-regalo 200 in 219ms
+ ✓ Compiled in 1157ms (1466 modules)
+ GET /voucher-regalo 200 in 69ms
+ ✓ Compiled in 1299ms (1466 modules)
+ GET /voucher-regalo 200 in 79ms
+ ✓ Compiled in 348ms (703 modules)
+ GET /voucher-regalo 200 in 32ms
+ ✓ Compiled in 980ms (1453 modules)
+ GET /voucher-regalo 200 in 48ms
+ ✓ Compiled in 982ms (1467 modules)
+ GET /voucher-regalo 200 in 56ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\server-development\3.pack.gz_' -> 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\server-development\3.pack.gz'
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\5.pack.gz_' -> 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\5.pack.gz'
+ ✓ Compiled in 515ms (703 modules)
+ GET /voucher-regalo 200 in 41ms
+ ✓ Compiled in 489ms (1467 modules)
+ GET /voucher-regalo 200 in 67ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\server-development\0.pack.gz_' -> 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\server-development\0.pack.gz'
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 960ms (1457 modules)
+ GET /images/voucher%201.jpg 404 in 1176ms
+ GET /images/voucher%203.jpg 404 in 1176ms
+ GET /images/voucher%202.jpg 404 in 1179ms
+ GET /images/voucher%207.jpg 404 in 1177ms
+ GET /images/voucher%206.jpg 404 in 1178ms
+ GET /images/voucher%205.jpg 404 in 1180ms
+ GET / 200 in 34ms
+ ✓ Compiled in 958ms (703 modules)
+ GET / 200 in 65ms
+ ✓ Compiled in 662ms (703 modules)
+ ✓ Compiled in 557ms (703 modules)
+ GET / 200 in 152ms
+ GET / 200 in 28ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\6.pack.gz_' -> 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\6.pack.gz'
+ ✓ Compiled in 1414ms (1470 modules)
+ GET / 200 in 131ms
+ ✓ Compiled in 979ms (1456 modules)
+ GET / 200 in 147ms
+ ✓ Compiled in 853ms (1470 modules)
+ GET / 200 in 104ms
+ ✓ Compiled in 824ms (1470 modules)
+ GET / 200 in 138ms
+ ✓ Compiled in 801ms (1470 modules)
+ GET / 200 in 69ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\0.pack.gz_' -> 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\0.pack.gz'
+ ✓ Compiled in 2.7s (1470 modules)
+ ✓ Compiled in 737ms (1470 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\server-development\9.pack.gz_' -> 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\server-development\9.pack.gz'
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\0.pack.gz_' -> 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\0.pack.gz'
+ ✓ Compiled in 3.1s (1470 modules)
+[?25h
+
+---
+exit_code: 0
+elapsed_ms: 3771132
+ended_at: 2026-04-28T03:31:46.747Z
+---

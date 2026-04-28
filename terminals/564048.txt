@@ -1,0 +1,13 @@
+---
+pid: 12592
+cwd: "C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40"
+command: "if (Test-Path \".next\\cache\") { Remove-Item \".next\\cache\" -Recurse -Force -ErrorAction SilentlyContinue }; if (Test-Path \".next\") { Remove-Item \".next\" -Force -ErrorAction SilentlyContinue }; if (Test-Path \".next\") { Write-Output \"next_still_exists\" } else { Write-Output \"next_removed\" }"
+started_at: 2026-04-28T03:46:24.859Z
+running_for_ms: 30244    
+---
+
+---
+exit_code: 4294967295
+elapsed_ms: 33985
+ended_at: 2026-04-28T03:46:58.844Z
+---

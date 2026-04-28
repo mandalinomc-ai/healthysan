@@ -1,0 +1,797 @@
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\-Bv6PrL-JIGXnBz-IjLaERFgiATi1QzZz307q9DB1iw\31536000.1808869688042.KKd
+G5ts1H4xaui4_dLbFY0K314LyKYZQ1qgiJ14b6MA.bUb8xHYvYNLhoJ5E-TtR-GluJDlbyUS3zXVCKHb8Xsw.webp: Impossibile trovare una 
+parte del percorso 
+'31536000.1808869688042.KKdG5ts1H4xaui4_dLbFY0K314LyKYZQ1qgiJ14b6MA.bUb8xHYvYNLhoJ5E-TtR-GluJDlbyUS3zXVCKHb8Xsw.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (31536000.180886...XVCKHb8Xsw.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\-Bv6PrL-JIGXnBz-IjLaERFgiATi1QzZz307q9DB1iw: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (-Bv6PrL-JIGXnBz...1QzZz307q9DB1iw:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\2yuOQZl45-nyRgn6PVcUK-RtEvtwBJL0PrcM5bsW9aY\60.1777342763056.eWFFZGDxQ
+OM_LEafuH1EydwgH4moW07bftl98HqC2Ww.Vy8iNTNjMDU5LTE5ZGQxNmQ5YWRiIg.webp: Impossibile trovare una parte del percorso 
+'60.1777342763056.eWFFZGDxQOM_LEafuH1EydwgH4moW07bftl98HqC2Ww.Vy8iNTNjMDU5LTE5ZGQxNmQ5YWRiIg.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177734276305...NmQ5YWRiIg.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\2yuOQZl45-nyRgn6PVcUK-RtEvtwBJL0PrcM5bsW9aY: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (2yuOQZl45-nyRgn...BJL0PrcM5bsW9aY:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\56KMrY6b28SFnerBKGLRUCvEZ9B-TYqw5Z2-yTwGjeo\60.1777339118815.U3wej6bBU
+Wci7i4Vz3rUOzNQE9dn0-WzcOrJdDRXBCo.Vy8iMjA0MDIzOS0xOWRkMTZlY2VjNSI.webp: Impossibile trovare una parte del percorso 
+'60.1777339118815.U3wej6bBUWci7i4Vz3rUOzNQE9dn0-WzcOrJdDRXBCo.Vy8iMjA0MDIzOS0xOWRkMTZlY2VjNSI.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177733911881...TZlY2VjNSI.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\56KMrY6b28SFnerBKGLRUCvEZ9B-TYqw5Z2-yTwGjeo: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (56KMrY6b28SFner...TYqw5Z2-yTwGjeo:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\5gS_KW3C971uSCf3uCdYsh2jkV5SRiEeA4TNPksUKLA\60.1777339155326.BKIzVnKZi
+YTbOPcpRRagwZ9875-dh4lHajAaBiKzsJI.Vy8iMTQ4M2Y5Yy0xOWRkMTZlZjdlNiI.webp: Impossibile trovare una parte del percorso 
+'60.1777339155326.BKIzVnKZiYTbOPcpRRagwZ9875-dh4lHajAaBiKzsJI.Vy8iMTQ4M2Y5Yy0xOWRkMTZlZjdlNiI.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177733915532...TZlZjdlNiI.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\5gS_KW3C971uSCf3uCdYsh2jkV5SRiEeA4TNPksUKLA: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (5gS_KW3C971uSCf...RiEeA4TNPksUKLA:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\5HqGxhsAmkhKOQWAvJxTvdLClotT48wvaGqpjnM9HZA\31536000.1808877830954.i7a
+EUW4KtJDrD12vxcdfAGAUWIEd8QpfiKW5PPC63M4.CXTWp-HDiF6NX48xc7mv-gHnLqdbR77dIcTo-wAxbVI.webp: Impossibile trovare una 
+parte del percorso 
+'31536000.1808877830954.i7aEUW4KtJDrD12vxcdfAGAUWIEd8QpfiKW5PPC63M4.CXTWp-HDiF6NX48xc7mv-gHnLqdbR77dIcTo-wAxbVI.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (31536000.180887...cTo-wAxbVI.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\5HqGxhsAmkhKOQWAvJxTvdLClotT48wvaGqpjnM9HZA: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (5HqGxhsAmkhKOQW...48wvaGqpjnM9HZA:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\5hs26m0NHLcsvjNMHH1NX_1TCUYnh5pnGpIpvuceuKY\60.1777345664132.YK7Q3M5KV
+NzX8O6BeWx_YzBA5CBUm-luFaiP5wwM0Io.Vy8iMjA0MDIzOS0xOWRkMTZlY2VjNSI.webp: Impossibile trovare una parte del percorso 
+'60.1777345664132.YK7Q3M5KVNzX8O6BeWx_YzBA5CBUm-luFaiP5wwM0Io.Vy8iMjA0MDIzOS0xOWRkMTZlY2VjNSI.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177734566413...TZlY2VjNSI.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\5hs26m0NHLcsvjNMHH1NX_1TCUYnh5pnGpIpvuceuKY: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (5hs26m0NHLcsvjN...h5pnGpIpvuceuKY:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\5J9WXQpFpcDoqipl8CRXfT6DM6wQ_fj_ddB5e5xQ_ug\31536000.1808869688092.hRy
+G57anaON09RgiZnoRRjIUnC4M0k47xxcF-f3WA8o.bUb8xHYvYNLhoJ5E-TtR-GluJDlbyUS3zXVCKHb8Xsw.webp: Impossibile trovare una 
+parte del percorso 
+'31536000.1808869688092.hRyG57anaON09RgiZnoRRjIUnC4M0k47xxcF-f3WA8o.bUb8xHYvYNLhoJ5E-TtR-GluJDlbyUS3zXVCKHb8Xsw.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (31536000.180886...XVCKHb8Xsw.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\5J9WXQpFpcDoqipl8CRXfT6DM6wQ_fj_ddB5e5xQ_ug: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (5J9WXQpFpcDoqip..._fj_ddB5e5xQ_ug:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\9Xo8ndoqc_7DCg3sWNwmeTpVJHAr8gOV0HVdafN8uoQ\60.1777343490733.kqXXDunT9
+Nd8II4qx-CTZyTxTiCLTX8kPMlO83iokpE.Vy8iMTNjNTAxNi0xOWRkMTVmODdhMyI.webp: Impossibile trovare una parte del percorso 
+'60.1777343490733.kqXXDunT9Nd8II4qx-CTZyTxTiCLTX8kPMlO83iokpE.Vy8iMTNjNTAxNi0xOWRkMTVmODdhMyI.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177734349073...TVmODdhMyI.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\9Xo8ndoqc_7DCg3sWNwmeTpVJHAr8gOV0HVdafN8uoQ: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (9Xo8ndoqc_7DCg3...8gOV0HVdafN8uoQ:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\aVYGbNtvssC1K5mMxXyViBznYRw1HwI1PlHLBE6VZ28\60.1777343510561.1JlMB-yuI
+_xprvlK49XbYWeknPzoDAFKuGOhN0IPKs8.Vy8iMjhjNGU2LTE5ZGQxN2M0MjVmIg.webp: Impossibile trovare una parte del percorso 
+'60.1777343510561.1JlMB-yuI_xprvlK49XbYWeknPzoDAFKuGOhN0IPKs8.Vy8iMjhjNGU2LTE5ZGQxN2M0MjVmIg.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177734351056...N2M0MjVmIg.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\aVYGbNtvssC1K5mMxXyViBznYRw1HwI1PlHLBE6VZ28: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (aVYGbNtvssC1K5m...HwI1PlHLBE6VZ28:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\BEMcoJUlHoTDlunfZxn2IgSIu-2iGQRVebtIQPOuQJ8\60.1777340407895.gqSRGVQsz
+CM1UZGXMofLWT5jVZSTK8Y4F51SRMS2nZ0.Vy8iMjVjMmY5ZS0xOWRkMTZlYzJhMyI.webp: Impossibile trovare una parte del percorso 
+'60.1777340407895.gqSRGVQszCM1UZGXMofLWT5jVZSTK8Y4F51SRMS2nZ0.Vy8iMjVjMmY5ZS0xOWRkMTZlYzJhMyI.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177734040789...TZlYzJhMyI.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\BEMcoJUlHoTDlunfZxn2IgSIu-2iGQRVebtIQPOuQJ8: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (BEMcoJUlHoTDlun...GQRVebtIQPOuQJ8:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\bnpOrMWiB3A2RjjO5gxclTIBDDEPe5yvP89gmeZqs_Y\60.1777345931380.3BZqEicub
+3fg_72mzBTGcK6O5NG5ptAc1_V11nvedJI.Vy8iMWU5ZGZiMC0xOWRkMTYxMzcxYSI.webp: Impossibile trovare una parte del percorso 
+'60.1777345931380.3BZqEicub3fg_72mzBTGcK6O5NG5ptAc1_V11nvedJI.Vy8iMWU5ZGZiMC0xOWRkMTYxMzcxYSI.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177734593138...TYxMzcxYSI.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\bnpOrMWiB3A2RjjO5gxclTIBDDEPe5yvP89gmeZqs_Y: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (bnpOrMWiB3A2Rjj...e5yvP89gmeZqs_Y:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\DIl8MKVT1758ey4sAO7dz5XNRVpUgV5IRHl3b36r56U\60.1777341232893.FvWXJv9zE
+WhI9dW2L-iMrN9kiZBeFuLM0P0TbCstgkw.Vy8iMTc5NzAxYi0xOWRkMTZlZWIzMCI.webp: Impossibile trovare una parte del percorso 
+'60.1777341232893.FvWXJv9zEWhI9dW2L-iMrN9kiZBeFuLM0P0TbCstgkw.Vy8iMTc5NzAxYi0xOWRkMTZlZWIzMCI.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177734123289...TZlZWIzMCI.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\DIl8MKVT1758ey4sAO7dz5XNRVpUgV5IRHl3b36r56U: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (DIl8MKVT1758ey4...gV5IRHl3b36r56U:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\DqDaVnIWYIQY0kZRv9n41Lrg1An5WwQ8Gm3KECdijkA\60.1777348002321.pKnV8RgEB
+SD3BPAPFak0OU7-WrTgHNZ2vmy64baxTMQ.Vy8iMTQ4M2Y5Yy0xOWRkMTZlZjdlNiI.webp: Impossibile trovare una parte del percorso 
+'60.1777348002321.pKnV8RgEBSD3BPAPFak0OU7-WrTgHNZ2vmy64baxTMQ.Vy8iMTQ4M2Y5Yy0xOWRkMTZlZjdlNiI.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177734800232...TZlZjdlNiI.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\DqDaVnIWYIQY0kZRv9n41Lrg1An5WwQ8Gm3KECdijkA: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (DqDaVnIWYIQY0kZ...WwQ8Gm3KECdijkA:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\dt7XTQ9iwqugUpn7rIhUE1orD-0sIUrTmkVVqmGrC8U\60.1777342763062.J61fFvJPr
+aUDkbdgSVZCTPtblw-6FxMSQNInPMJnR6Q.Vy8iNTk3ODMzLTE5ZGQxNmQ4NzczIg.webp: Impossibile trovare una parte del percorso 
+'60.1777342763062.J61fFvJPraUDkbdgSVZCTPtblw-6FxMSQNInPMJnR6Q.Vy8iNTk3ODMzLTE5ZGQxNmQ4NzczIg.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177734276306...NmQ4NzczIg.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\dt7XTQ9iwqugUpn7rIhUE1orD-0sIUrTmkVVqmGrC8U: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (dt7XTQ9iwqugUpn...IUrTmkVVqmGrC8U:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\fA0se9JvJ2K9Ggv2K_5IHK64CoSaWXBZFZ1Lc4v8ylU\60.1777339163699.FMM7x74Xw
+RKmsCAsdHrPRu2baYkiGn3co5MWcIOlw0g.Vy8iOGM4NTA1LTE5ZGQxNmRjMjhmIg.webp: Impossibile trovare una parte del percorso 
+'60.1777339163699.FMM7x74XwRKmsCAsdHrPRu2baYkiGn3co5MWcIOlw0g.Vy8iOGM4NTA1LTE5ZGQxNmRjMjhmIg.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177733916369...NmRjMjhmIg.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\fA0se9JvJ2K9Ggv2K_5IHK64CoSaWXBZFZ1Lc4v8ylU: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (fA0se9JvJ2K9Ggv...WXBZFZ1Lc4v8ylU:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\fZFYyuq6W9RAnDYhYzv3atzk274_PmQPLUtnowT8VFg\31536000.1808876642354.osA
+2q24ySsAI7-yN5ofg6obZUFOeksx7Av6G6vQDTRw.WcIqtLWBtPbLA_5fSRAv0CReKK0IayBdV6Fx-toskts.webp: Impossibile trovare una 
+parte del percorso 
+'31536000.1808876642354.osA2q24ySsAI7-yN5ofg6obZUFOeksx7Av6G6vQDTRw.WcIqtLWBtPbLA_5fSRAv0CReKK0IayBdV6Fx-toskts.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (31536000.180887...6Fx-toskts.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\fZFYyuq6W9RAnDYhYzv3atzk274_PmQPLUtnowT8VFg: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (fZFYyuq6W9RAnDY...PmQPLUtnowT8VFg:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\G2BO3cr1xT0s6rl3eDSfQP_mamsG3uFQJZcVKCWYus4\60.1777348002493.wzBWicNKz
+yO_awti8_3UUJZPyFCCKduScOH8AYVv0bU.Vy8iMWU5ZGZiMC0xOWRkMTYxMzcxYSI.webp: Impossibile trovare una parte del percorso 
+'60.1777348002493.wzBWicNKzyO_awti8_3UUJZPyFCCKduScOH8AYVv0bU.Vy8iMWU5ZGZiMC0xOWRkMTYxMzcxYSI.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177734800249...TYxMzcxYSI.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\G2BO3cr1xT0s6rl3eDSfQP_mamsG3uFQJZcVKCWYus4: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (G2BO3cr1xT0s6rl...3uFQJZcVKCWYus4:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\GEkIGhy-gorVfVjaCqrwJ7M2f-_d50Ehw8nJBjIpNUU\60.1777343477382.vtLJukGvR
+7smLNS5ULAaeK8Fl99dscOcVjFblN6y4og.Vy8iOWQ1MDQ2LTE5ZGQxZDVjOGJjIg.webp: Impossibile trovare una parte del percorso 
+'60.1777343477382.vtLJukGvR7smLNS5ULAaeK8Fl99dscOcVjFblN6y4og.Vy8iOWQ1MDQ2LTE5ZGQxZDVjOGJjIg.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177734347738...ZDVjOGJjIg.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\GEkIGhy-gorVfVjaCqrwJ7M2f-_d50Ehw8nJBjIpNUU: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (GEkIGhy-gorVfVj...50Ehw8nJBjIpNUU:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\iWts-3Y4h77E3MoI_MG6LOIjU9j6BuBp62LreOjVh2s\60.1777341919658.XJ5ZL7y8T
+DNXPrr04oFIkass9ReEj823hkhI0MpbVfI.Vy8iNTNjMDU5LTE5ZGQxNmQ5YWRiIg.webp: Impossibile trovare una parte del percorso 
+'60.1777341919658.XJ5ZL7y8TDNXPrr04oFIkass9ReEj823hkhI0MpbVfI.Vy8iNTNjMDU5LTE5ZGQxNmQ5YWRiIg.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177734191965...NmQ5YWRiIg.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\iWts-3Y4h77E3MoI_MG6LOIjU9j6BuBp62LreOjVh2s: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (iWts-3Y4h77E3Mo...BuBp62LreOjVh2s:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\ldH_3v31yglxu6FeycodDJz0Fu4xYD5M2ORFNTCRaHs\60.1777345602652.rfI4mOyvU
+AWC4e9rxQiOs3VJCq_Nz7PKLC4HhSbOri0.Vy8iMWNkM2I5Zi0xOWRkMTYwYzE4NiI.webp: Impossibile trovare una parte del percorso 
+'60.1777345602652.rfI4mOyvUAWC4e9rxQiOs3VJCq_Nz7PKLC4HhSbOri0.Vy8iMWNkM2I5Zi0xOWRkMTYwYzE4NiI.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177734560265...TYwYzE4NiI.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\ldH_3v31yglxu6FeycodDJz0Fu4xYD5M2ORFNTCRaHs: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (ldH_3v31yglxu6F...YD5M2ORFNTCRaHs:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\LIo7-OwPj6_DLTFeJZzH3C1s1IJW-M3KJSKYTJ5l5_c\60.1777341916506.VjjRjLcas
+a9qWljCd4miGklu8H1uv2Q2FnhZPoO4E50.Vy8iOGM4NTA1LTE5ZGQxNmRjMjhmIg.webp: Impossibile trovare una parte del percorso 
+'60.1777341916506.VjjRjLcasa9qWljCd4miGklu8H1uv2Q2FnhZPoO4E50.Vy8iOGM4NTA1LTE5ZGQxNmRjMjhmIg.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177734191650...NmRjMjhmIg.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\LIo7-OwPj6_DLTFeJZzH3C1s1IJW-M3KJSKYTJ5l5_c: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (LIo7-OwPj6_DLTF...-M3KJSKYTJ5l5_c:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\m8tDK4zz4GzRryFaCkVIzN_6cHSqW2G5a6JTckGYwXk\60.1777339163688.lSf2SXnwy
+1nU0bP0JY7seqxmJHPCl7jds4SMn3k-AIY.Vy8iNTNjMDU5LTE5ZGQxNmQ5YWRiIg.webp: Impossibile trovare una parte del percorso 
+'60.1777339163688.lSf2SXnwy1nU0bP0JY7seqxmJHPCl7jds4SMn3k-AIY.Vy8iNTNjMDU5LTE5ZGQxNmQ5YWRiIg.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177733916368...NmQ5YWRiIg.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\m8tDK4zz4GzRryFaCkVIzN_6cHSqW2G5a6JTckGYwXk: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (m8tDK4zz4GzRryF...W2G5a6JTckGYwXk:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\Mbzi9jEBxt_beGDO3zTTVwfBz3SbnSNJCR0PR0tj340\60.1777345602660.47oQ62xT1
+5UXCcFrdB2temrCohX58e9zwwkGpoM7Lfw.Vy8iMWNkM2I5Zi0xOWRkMTYwYzE4NiI.webp: Impossibile trovare una parte del percorso 
+'60.1777345602660.47oQ62xT15UXCcFrdB2temrCohX58e9zwwkGpoM7Lfw.Vy8iMWNkM2I5Zi0xOWRkMTYwYzE4NiI.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177734560266...TYwYzE4NiI.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\Mbzi9jEBxt_beGDO3zTTVwfBz3SbnSNJCR0PR0tj340: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (Mbzi9jEBxt_beGD...nSNJCR0PR0tj340:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\NEdewn6rInyua7W2c7Lvn7g87x53BGOy8QtGbN2BPBY\60.1777341045187.5n-Cn3-sS
+2olbVxGPQ1rcZ84rVFIwk_sVbkEjbxeZfM.Vy8iMjVjMmY5ZS0xOWRkMTZlYzJhMyI.webp: Impossibile trovare una parte del percorso 
+'60.1777341045187.5n-Cn3-sS2olbVxGPQ1rcZ84rVFIwk_sVbkEjbxeZfM.Vy8iMjVjMmY5ZS0xOWRkMTZlYzJhMyI.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177734104518...TZlYzJhMyI.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\NEdewn6rInyua7W2c7Lvn7g87x53BGOy8QtGbN2BPBY: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (NEdewn6rInyua7W...BGOy8QtGbN2BPBY:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\Nj2T0soErXSOvTmKwDNVE2DinL0K3ASgGq6oD-WmGAs\60.1777348002326.P96TX_Kbu
+0fHgF7q5Q6iENH1Rc0BGDy6la6O9GA-EYs.Vy8iMTQ4M2Y5Yy0xOWRkMTZlZjdlNiI.webp: Impossibile trovare una parte del percorso 
+'60.1777348002326.P96TX_Kbu0fHgF7q5Q6iENH1Rc0BGDy6la6O9GA-EYs.Vy8iMTQ4M2Y5Yy0xOWRkMTZlZjdlNiI.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177734800232...TZlZjdlNiI.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\Nj2T0soErXSOvTmKwDNVE2DinL0K3ASgGq6oD-WmGAs: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (Nj2T0soErXSOvTm...3ASgGq6oD-WmGAs:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\NlA_BkM5EAu9znxrdZVMLAvOBFcxhwwKdTv1XLYthVY\60.1777339155424.6-KLGCtwB
+CYkibo2PqAwME0qO6Vfwfe3Yx3rOJpH9ks.Vy8iMWNkM2I5Zi0xOWRkMTYwYzE4NiI.webp: Impossibile trovare una parte del percorso 
+'60.1777339155424.6-KLGCtwBCYkibo2PqAwME0qO6Vfwfe3Yx3rOJpH9ks.Vy8iMWNkM2I5Zi0xOWRkMTYwYzE4NiI.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177733915542...TYwYzE4NiI.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\NlA_BkM5EAu9znxrdZVMLAvOBFcxhwwKdTv1XLYthVY: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (NlA_BkM5EAu9znx...hwwKdTv1XLYthVY:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\NsdvssR_ReeZIz98X2O7-OCZYdkedilKC2WCcmvMZoU\31536000.1808869687932.Zt_
+jF87-h5pFQ-nzzfIZT7jbFiJt61i3CsZH951PbBk.xooqnoTq5YwPSKWy7ujybZrABEMsGY-8JIpSPOk71jc.webp: Impossibile trovare una 
+parte del percorso 
+'31536000.1808869687932.Zt_jF87-h5pFQ-nzzfIZT7jbFiJt61i3CsZH951PbBk.xooqnoTq5YwPSKWy7ujybZrABEMsGY-8JIpSPOk71jc.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (31536000.180886...IpSPOk71jc.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\NsdvssR_ReeZIz98X2O7-OCZYdkedilKC2WCcmvMZoU: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (NsdvssR_ReeZIz9...dilKC2WCcmvMZoU:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\NyiRqGv05XQZuqELxWcjN6yCeBd8aB3k7PT0n0NSeAc\60.1777341916493.aLTrUb8nU
+9vUtKMRxVcKYI10SuBiDvAyd38xxI5lpqQ.Vy8iNTk3ODMzLTE5ZGQxNmQ4NzczIg.webp: Impossibile trovare una parte del percorso 
+'60.1777341916493.aLTrUb8nU9vUtKMRxVcKYI10SuBiDvAyd38xxI5lpqQ.Vy8iNTk3ODMzLTE5ZGQxNmQ4NzczIg.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177734191649...NmQ4NzczIg.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\NyiRqGv05XQZuqELxWcjN6yCeBd8aB3k7PT0n0NSeAc: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (NyiRqGv05XQZuqE...aB3k7PT0n0NSeAc:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\nz5JOG1xvm_zV8A5ELLNFnB3DB-pYAqhiRZEc9MMJDI\60.1777343510563.ROWdtMTeu
+R4-kWkCZF8wVkNA0WzfyV2QadxE1M0_gs4.Vy8iMmUzODFmLTE5ZGQxN2MyOWY5Ig.webp: Impossibile trovare una parte del percorso 
+'60.1777343510563.ROWdtMTeuR4-kWkCZF8wVkNA0WzfyV2QadxE1M0_gs4.Vy8iMmUzODFmLTE5ZGQxN2MyOWY5Ig.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177734351056...N2MyOWY5Ig.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\nz5JOG1xvm_zV8A5ELLNFnB3DB-pYAqhiRZEc9MMJDI: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (nz5JOG1xvm_zV8A...YAqhiRZEc9MMJDI:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\OObUQMF2YmPR4Q78URezn6iqnl1kYFLUrNIfAsr2Ukg\60.1777345604816.SN_tvvQPJ
+hVPVhutOqejclmU15iS7ZQrT-EzO-HU4bE.Vy8iMTQ4M2Y5Yy0xOWRkMTZlZjdlNiI.webp: Impossibile trovare una parte del percorso 
+'60.1777345604816.SN_tvvQPJhVPVhutOqejclmU15iS7ZQrT-EzO-HU4bE.Vy8iMTQ4M2Y5Yy0xOWRkMTZlZjdlNiI.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177734560481...TZlZjdlNiI.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\OObUQMF2YmPR4Q78URezn6iqnl1kYFLUrNIfAsr2Ukg: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (OObUQMF2YmPR4Q7...YFLUrNIfAsr2Ukg:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\PQvMKRtzvyXZ0-zZqSOUWP2zSj4lNhjFqBwfq4TGTWE\60.1777343510566._7-SmV269
+aopy_Ehfi0KNfFYodAp781WTW0T8z67hK8.Vy8iMzA4ZmNiLTE5ZGQxN2M3MDk1Ig.webp: Impossibile trovare una parte del percorso 
+'60.1777343510566._7-SmV269aopy_Ehfi0KNfFYodAp781WTW0T8z67hK8.Vy8iMzA4ZmNiLTE5ZGQxN2M3MDk1Ig.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177734351056...N2M3MDk1Ig.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\PQvMKRtzvyXZ0-zZqSOUWP2zSj4lNhjFqBwfq4TGTWE: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (PQvMKRtzvyXZ0-z...NhjFqBwfq4TGTWE:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\r3zaq52Ckjg_4nsjpE41EOEtiU52wIKuCAJhAs8vbfo\31536000.1808869687970.Pri
+IF_BmmeJzMTtHH4SjJC9KnvNiVvnCM35_gF4KVjU.08obAayACeuFLHN05UJZUPOSmvAzyMTF2WrY5hO_2a0.webp: Impossibile trovare una 
+parte del percorso 
+'31536000.1808869687970.PriIF_BmmeJzMTtHH4SjJC9KnvNiVvnCM35_gF4KVjU.08obAayACeuFLHN05UJZUPOSmvAzyMTF2WrY5hO_2a0.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (31536000.180886...WrY5hO_2a0.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\r3zaq52Ckjg_4nsjpE41EOEtiU52wIKuCAJhAs8vbfo: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (r3zaq52Ckjg_4ns...wIKuCAJhAs8vbfo:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\r7WCgiu3VqfGPq22Ygr1Y_O0iWEMaNxmsbK0Dzk2fkU\60.1777347827673.V_UFnBz6N
+5q7VRPDYHugxrFfBFQ-LnV3mwSabWWxMbg.Vy8iMWU5ZGZiMC0xOWRkMTYxMzcxYSI.webp: Impossibile trovare una parte del percorso 
+'60.1777347827673.V_UFnBz6N5q7VRPDYHugxrFfBFQ-LnV3mwSabWWxMbg.Vy8iMWU5ZGZiMC0xOWRkMTYxMzcxYSI.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177734782767...TYxMzcxYSI.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\r7WCgiu3VqfGPq22Ygr1Y_O0iWEMaNxmsbK0Dzk2fkU: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (r7WCgiu3VqfGPq2...aNxmsbK0Dzk2fkU:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\RcGrtksYBzZT1CpzWaoPcq52ypiiZmmbhJYR0HmcJ6s\60.1777347210218.bXAY64HV3
+MhceG6BNfdx3WXI_j8bc_D9RCzvHa3E3j8.Vy8iMjA0MDIzOS0xOWRkMTZlY2VjNSI.webp: Impossibile trovare una parte del percorso 
+'60.1777347210218.bXAY64HV3MhceG6BNfdx3WXI_j8bc_D9RCzvHa3E3j8.Vy8iMjA0MDIzOS0xOWRkMTZlY2VjNSI.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177734721021...TZlY2VjNSI.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\RcGrtksYBzZT1CpzWaoPcq52ypiiZmmbhJYR0HmcJ6s: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (RcGrtksYBzZT1Cp...ZmmbhJYR0HmcJ6s:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\S32g-WIvmGuLy5BOdfSMtq2QrRgdhtaqohf4EZahriY\60.1777343510562.Tzwgi5MGr
+a3bjP842B1pVXjTwgjD8d2hcJgamLTSG5o.Vy8iMmM4ZjAxLTE5ZGQxN2JjMzlmIg.webp: Impossibile trovare una parte del percorso 
+'60.1777343510562.Tzwgi5MGra3bjP842B1pVXjTwgjD8d2hcJgamLTSG5o.Vy8iMmM4ZjAxLTE5ZGQxN2JjMzlmIg.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177734351056...N2JjMzlmIg.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\S32g-WIvmGuLy5BOdfSMtq2QrRgdhtaqohf4EZahriY: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (S32g-WIvmGuLy5B...htaqohf4EZahriY:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\S4EI84tnAwygaJC-ki4g1bNtB4yaGCd9v6ZR1PIgZkI\60.1777347210140.DJV-TDpjw
+G4sxJRnCllcwaeGki8qqfwdzL3Vsuxv2JA.Vy8iMWNkM2I5Zi0xOWRkMTYwYzE4NiI.webp: Impossibile trovare una parte del percorso 
+'60.1777347210140.DJV-TDpjwG4sxJRnCllcwaeGki8qqfwdzL3Vsuxv2JA.Vy8iMWNkM2I5Zi0xOWRkMTYwYzE4NiI.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177734721014...TYwYzE4NiI.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\S4EI84tnAwygaJC-ki4g1bNtB4yaGCd9v6ZR1PIgZkI: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (S4EI84tnAwygaJC...GCd9v6ZR1PIgZkI:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\SbdzlOnRJSnrRUQulWQneXm7tks1IA6gfe_Ypj1k-1M\60.1777343458874.-Lt-62s7J
+XvzXWifUyIIvNjhmNixAKs2f9aeHwOGdsE.Vy8iZTBiMjNjLTE5ZGQxNjA1MjM1Ig.webp: Impossibile trovare una parte del percorso 
+'60.1777343458874.-Lt-62s7JXvzXWifUyIIvNjhmNixAKs2f9aeHwOGdsE.Vy8iZTBiMjNjLTE5ZGQxNjA1MjM1Ig.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177734345887...NjA1MjM1Ig.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\SbdzlOnRJSnrRUQulWQneXm7tks1IA6gfe_Ypj1k-1M: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (SbdzlOnRJSnrRUQ...IA6gfe_Ypj1k-1M:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\TH7kw7sf0MZfNIK-QR_qY9DiOXGmXU04HzoriyC7NcU\31536000.1808876181055.Pri
+IF_BmmeJzMTtHH4SjJC9KnvNiVvnCM35_gF4KVjU.08obAayACeuFLHN05UJZUPOSmvAzyMTF2WrY5hO_2a0.webp: Impossibile trovare una 
+parte del percorso 
+'31536000.1808876181055.PriIF_BmmeJzMTtHH4SjJC9KnvNiVvnCM35_gF4KVjU.08obAayACeuFLHN05UJZUPOSmvAzyMTF2WrY5hO_2a0.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (31536000.180887...WrY5hO_2a0.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\TH7kw7sf0MZfNIK-QR_qY9DiOXGmXU04HzoriyC7NcU: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (TH7kw7sf0MZfNIK...XU04HzoriyC7NcU:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\tO5Q3GWAOYL6yRJ1FpJAUAm3u3C3F6m3fctlC_Su2p8\60.1777343477386.8lcL_eT3K
+KkxSBYYhU6pEirDf-cox-_uWN6fthrEfno.Vy8iOWZkNjY1LTE5ZGQxZDYxMjI3Ig.webp: Impossibile trovare una parte del percorso 
+'60.1777343477386.8lcL_eT3KKkxSBYYhU6pEirDf-cox-_uWN6fthrEfno.Vy8iOWZkNjY1LTE5ZGQxZDYxMjI3Ig.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177734347738...ZDYxMjI3Ig.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\tO5Q3GWAOYL6yRJ1FpJAUAm3u3C3F6m3fctlC_Su2p8: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (tO5Q3GWAOYL6yRJ...F6m3fctlC_Su2p8:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\vfcCaq6DBMUncdnsFgTBPomKFyqvKw6ao1ugEEP6jVs\60.1777343510560.ojiFTC7vr
+GWu2Hg9krLBK58SIFKnhzxIAY5T0QJ_s_M.Vy8iMjliMzk5LTE5ZGQxN2JkZTNlIg.webp: Impossibile trovare una parte del percorso 
+'60.1777343510560.ojiFTC7vrGWu2Hg9krLBK58SIFKnhzxIAY5T0QJ_s_M.Vy8iMjliMzk5LTE5ZGQxN2JkZTNlIg.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177734351056...N2JkZTNlIg.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\vfcCaq6DBMUncdnsFgTBPomKFyqvKw6ao1ugEEP6jVs: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (vfcCaq6DBMUncdn...Kw6ao1ugEEP6jVs:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\wjjVaVD7Ccd875vi9q55xfvupNYLvOfKtSyyvMxBCYg\60.1777343510564.NfDS1S1Vp
+aziBmAf44biun29hUwFY1dSPpeet2fXGCQ.Vy8iMmY3Y2ZhLTE5ZGQxN2JmNDRhIg.webp: Impossibile trovare una parte del percorso 
+'60.1777343510564.NfDS1S1VpaziBmAf44biun29hUwFY1dSPpeet2fXGCQ.Vy8iMmY3Y2ZhLTE5ZGQxN2JmNDRhIg.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177734351056...N2JmNDRhIg.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\wjjVaVD7Ccd875vi9q55xfvupNYLvOfKtSyyvMxBCYg: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (wjjVaVD7Ccd875v...vOfKtSyyvMxBCYg:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\Xn5iO6J82gjh5zgJE4xx-nYeo47jXOouCwrHUG0Eomw\31536000.1808869687937.ng7
+hCO9xvPCYlr0737LGOFCGlFSnroOi6ZvGNPyn5Ks.PgQ11oKzdXvC26uDP6gjNQGwqHtkcUxOWxBykrknu4g.webp: Impossibile trovare una 
+parte del percorso 
+'31536000.1808869687937.ng7hCO9xvPCYlr0737LGOFCGlFSnroOi6ZvGNPyn5Ks.PgQ11oKzdXvC26uDP6gjNQGwqHtkcUxOWxBykrknu4g.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (31536000.180886...xBykrknu4g.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\Xn5iO6J82gjh5zgJE4xx-nYeo47jXOouCwrHUG0Eomw: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (Xn5iO6J82gjh5zg...XOouCwrHUG0Eomw:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\YDCuevlV1D7iFW55hfaRRk1uet6WO4X1wq1IX2tDTJ8\60.1777343476276.to-uk4gwJ
+cvAhzDL9CWs8Z66pSa9XLKxCUPSTTQoQnY.Vy8iNmVhZjM2LTE5ZGQxZDY5MWFiIg.webp: Impossibile trovare una parte del percorso 
+'60.1777343476276.to-uk4gwJcvAhzDL9CWs8Z66pSa9XLKxCUPSTTQoQnY.Vy8iNmVhZjM2LTE5ZGQxZDY5MWFiIg.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177734347627...ZDY5MWFiIg.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\YDCuevlV1D7iFW55hfaRRk1uet6WO4X1wq1IX2tDTJ8: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (YDCuevlV1D7iFW5...O4X1wq1IX2tDTJ8:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\Z2UaUc8Eb5z0ZiKS7V5nbFACjSbLPFqsssPTkHs48J4\60.1777342763075.vvRf-pTNv
+rXR9kInL0HBDht95I7fBwaGM9dBSJEqYgs.Vy8iOGM4NTA1LTE5ZGQxNmRjMjhmIg.webp: Impossibile trovare una parte del percorso 
+'60.1777342763075.vvRf-pTNvrXR9kInL0HBDht95I7fBwaGM9dBSJEqYgs.Vy8iOGM4NTA1LTE5ZGQxNmRjMjhmIg.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177734276307...NmRjMjhmIg.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\Z2UaUc8Eb5z0ZiKS7V5nbFACjSbLPFqsssPTkHs48J4: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (Z2UaUc8Eb5z0ZiK...PFqsssPTkHs48J4:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\z6Cvb4cVtvk768HcUr3A5RxU8SXno4j2fbU7MH5akrc\60.1777339163690.qOdoyWTA1
+lE7vnN3Aiy0d8I_qE7e369PUzN7UNGSeSo.Vy8iNTk3ODMzLTE5ZGQxNmQ4NzczIg.webp: Impossibile trovare una parte del percorso 
+'60.1777339163690.qOdoyWTA1lE7vnN3Aiy0d8I_qE7e369PUzN7UNGSeSo.Vy8iNTk3ODMzLTE5ZGQxNmQ4NzczIg.webp'.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (60.177733916369...NmQ4NzczIg.webp:FileInfo) [Remove-Item], DirectoryNotFoun 
+   dException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images\z6Cvb4cVtvk768HcUr3A5RxU8SXno4j2fbU7MH5akrc: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (z6Cvb4cVtvk768H...o4j2fbU7MH5akrc:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc6339
+0-b54d-4228-928c-bccea19ceb40\.next\cache\images: La directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (images:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento 
+C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache: La 
+directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (cache:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+Remove-Item : Impossibile rimuovere l'elemento 
+C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next: La 
+directory non � vuota.
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-87d3a144-1017-4c1d-930b-fac455a92b39.ps1:77 car:26
++ if (Test-Path ".next") { Remove-Item ".next" -Recurse -Force }; Write ...
++                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : WriteError: (C:\Users\pcgam\...ea19ceb40\.next:DirectoryInfo) [Remove-Item], IOException
+    + FullyQualifiedErrorId : RemoveFileSystemItemIOError,Microsoft.PowerShell.Commands.RemoveItemCommand
+cleared_next_cache

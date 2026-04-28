@@ -1,0 +1,37 @@
+---
+pid: 33936
+cwd: "C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40"
+command: "$env:Path = [System.Environment]::GetEnvironmentVariable(\"Path\",\"Machine\") + \";\" + [System.Environment]::GetEnvironmentVariable(\"Path\",\"User\"); & \"C:\\Program Files\\nodejs\\npm.cmd\" run dev"
+started_at: 2026-04-28T03:31:23.604Z
+running_for_ms: 18       
+---
+
+> healthysan-landing@0.1.0 dev
+> next dev
+
+ ⚠ Port 3000 is in use, trying 3001 instead.
+ ⚠ Port 3001 is in use, trying 3002 instead.
+ ⚠ Port 3002 is in use, trying 3003 instead.
+ ⚠ Port 3003 is in use, trying 3004 instead.
+ ⚠ Port 3004 is in use, trying 3005 instead.
+ ⚠ Port 3005 is in use, trying 3006 instead.
+ ⚠ Port 3006 is in use, trying 3007 instead.
+ ⚠ Port 3007 is in use, trying 3008 instead.
+ ⚠ Port 3008 is in use, trying 3009 instead.
+ ⚠ Port 3009 is in use, trying 3010 instead.
+ ⨯ Failed to start server
+Error: listen EADDRINUSE: address already in use :::3010
+    at <unknown> (Error: listen EADDRINUSE: address already in use :::3010) {
+  code: 'EADDRINUSE',
+  errno: -4091,
+  syscall: 'listen',
+  address: '::',
+  port: 3010
+}
+[?25h
+
+---
+exit_code: 0
+elapsed_ms: 2794
+ended_at: 2026-04-28T03:31:26.398Z
+---

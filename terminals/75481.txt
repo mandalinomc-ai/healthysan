@@ -1,0 +1,146 @@
+---
+pid: 34576
+cwd: "C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40"
+command: "Set-Location \"C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\"; & \"C:\\Program Files\\nodejs\\npm.cmd\" run dev"
+started_at: 2026-04-28T02:36:53.161Z
+running_for_ms: 3289133  
+---
+
+> healthysan-landing@0.1.0 dev
+> next dev
+
+ ⚠ Port 3000 is in use, trying 3001 instead.
+ ⚠ Port 3001 is in use, trying 3002 instead.
+ ⚠ Port 3002 is in use, trying 3003 instead.
+ ⚠ Port 3003 is in use, trying 3004 instead.
+ ⚠ Port 3004 is in use, trying 3005 instead.
+ ⚠ Port 3005 is in use, trying 3006 instead.
+ ⚠ Port 3006 is in use, trying 3007 instead.
+ ⚠ Port 3007 is in use, trying 3008 instead.
+ ⚠ Port 3008 is in use, trying 3009 instead.
+ ⚠ Port 3009 is in use, trying 3010 instead.
+   ▲ Next.js 15.1.3
+   - Local:        http://localhost:3010
+   - Network:      http://192.168.0.59:3010
+
+ ✓ Starting...
+ ✓ Ready in 1782ms
+ ○ Compiling / ...
+ ✓ Compiled / in 4.8s (1456 modules)
+ ✓ Compiled in 649ms (695 modules)
+ GET / 200 in 5947ms
+ ✓ Compiled /voucher-regalo in 433ms (1429 modules)
+ GET /voucher-regalo 200 in 537ms
+ ✓ Compiled /_not-found in 193ms (1433 modules)
+ GET /images/voucher%201.jpg 404 in 395ms
+ GET /images/voucher%203.jpg 404 in 390ms
+ GET /images/voucher%205.jpg 404 in 392ms
+ GET /images/voucher%202.jpg 404 in 394ms
+ GET /images/voucher%201.jpg 404 in 40ms
+ GET /images/voucher%203.jpg 404 in 39ms
+ GET /images/voucher%202.jpg 404 in 40ms
+ GET /images/voucher%205.jpg 404 in 39ms
+ GET /images/voucher%206.jpg 404 in 12ms
+ GET /images/voucher%207.jpg 404 in 11ms
+ GET /images/gift%20card%20coppia.jpg 404 in 8ms
+ ⨯ The requested resource isn't a valid image for /images/gift%20card%20coppia.jpg received text/html; charset=utf-8
+ ✓ Compiled /trattamenti in 296ms (1443 modules)
+ GET /trattamenti 200 in 383ms
+ ○ Compiling /urban-spa ...
+ ✓ Compiled /urban-spa in 548ms (1451 modules)
+ GET /urban-spa 200 in 606ms
+ GET / 200 in 32ms
+ ✓ Compiled in 1199ms (702 modules)
+ GET / 200 in 45ms
+ ✓ Compiled in 649ms (702 modules)
+ ✓ Compiled in 621ms (702 modules)
+ GET / 200 in 739ms
+ GET / 200 in 30ms
+ ✓ Compiled in 1241ms (1464 modules)
+ GET / 200 in 165ms
+ ✓ Compiled in 719ms (1464 modules)
+ GET / 200 in 208ms
+ ✓ Compiled in 988ms (1464 modules)
+ GET / 200 in 102ms
+ ✓ Compiled in 989ms (1464 modules)
+ GET / 200 in 81ms
+ ✓ Compiled in 778ms (1464 modules)
+ GET / 200 in 87ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\server-development\5.pack.gz_' -> 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\server-development\5.pack.gz'
+ GET / 200 in 161ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 563ms (1468 modules)
+ GET /_next/static/css/app/layout.css?v=1777345214702 404 in 752ms
+ GET /_next/static/chunks/webpack.js?v=1777345214702 404 in 762ms
+ GET /_next/static/chunks/main-app.js?v=1777345214702 404 in 760ms
+ GET /_next/static/chunks/app/(site)/layout.js 404 in 741ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 756ms
+ GET /_next/static/chunks/app/template.js 404 in 753ms
+ GET /_next/static/chunks/app/(site)/page.js 404 in 20ms
+ ⨯ Error: Cannot find module './635.js'
+Require stack:
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\_not-found\page.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\require.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\load-components.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\utils.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\swc\options.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\swc\index.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\config.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\next.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\lib\start-server.js
+    at __webpack_require__.f.require (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:198:28)
+    at <unknown> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:162:22)
+    at <unknown> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\(site)\page.js:1:33780)
+    at Object.<anonymous> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\(site)\page.js:1:33835) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 1142ms (1696 modules)
+ GET / 500 in 1625ms
+ GET /_next/static/css/app/layout.css?v=1777345237457 404 in 30ms
+ GET / 200 in 238ms
+ GET /_next/static/chunks/main-app.js?v=1777345237457 404 in 71ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 59ms
+ GET /_next/static/chunks/app/template.js 404 in 46ms
+ GET /_next/static/chunks/app/(site)/layout.js 404 in 46ms
+ GET /_next/static/chunks/app/(site)/page.js 404 in 21ms
+ GET / 200 in 77ms
+ GET /_next/static/css/app/layout.css?v=1777345245692 404 in 23ms
+ GET /_next/static/chunks/main-app.js?v=1777345245692 404 in 84ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 77ms
+ GET /_next/static/chunks/app/template.js 404 in 62ms
+ GET /_next/static/chunks/app/(site)/layout.js 404 in 52ms
+ GET /_next/static/chunks/app/(site)/page.js 404 in 42ms
+ ✓ Compiled in 2.6s (1706 modules)
+ ✓ Compiled in 776ms (1706 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\server-development\8.pack.gz_' -> 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\server-development\8.pack.gz'
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: EPERM: operation not permitted, rename 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\12.pack.gz_' -> 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\12.pack.gz'
+ ✓ Compiled in 3.4s (1706 modules)
+ ✓ Compiled in 845ms (1706 modules)
+ ✓ Compiled in 349ms (900 modules)
+ ✓ Compiled in 651ms (1709 modules)
+ ✓ Compiled in 775ms (1695 modules)
+ ✓ Compiled in 839ms (1709 modules)
+ ✓ Compiled in 507ms (1695 modules)
+ ✓ Compiled in 539ms (1709 modules)
+ ✓ Compiled in 436ms (901 modules)
+ ✓ Compiled in 509ms (901 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\9.pack.gz_' -> 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\9.pack.gz'
+ ✓ Compiled in 669ms (1709 modules)
+ ✓ Compiled in 692ms (1709 modules)
+ ✓ Compiled in 450ms (901 modules)
+[?25h
+
+---
+exit_code: 0
+elapsed_ms: 3293807
+ended_at: 2026-04-28T03:31:46.968Z
+---

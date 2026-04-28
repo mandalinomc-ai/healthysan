@@ -1,0 +1,520 @@
+---
+pid: 5044
+cwd: "C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40"
+command: "Set-Location \"C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\"; & \"C:\\Program Files\\nodejs\\npm.cmd\" run dev"
+started_at: 2026-04-28T01:46:43.195Z
+running_for_ms: 6302850  
+---
+
+> healthysan-landing@0.1.0 dev
+> next dev
+
+ ⚠ Port 3000 is in use, trying 3001 instead.
+ ⚠ Port 3001 is in use, trying 3002 instead.
+ ⚠ Port 3002 is in use, trying 3003 instead.
+ ⚠ Port 3003 is in use, trying 3004 instead.
+ ⚠ Port 3004 is in use, trying 3005 instead.
+   ▲ Next.js 15.1.3
+   - Local:        http://localhost:3005
+   - Network:      http://192.168.0.59:3005
+
+ ✓ Starting...
+ ✓ Ready in 1793ms
+ ○ Compiling / ...
+ ✓ Compiled / in 3.4s (1425 modules)
+ GET / 200 in 4163ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 990ms (1415 modules)
+ GET /images/laser%20healthysan.jpg 404 in 1060ms
+ ⨯ The requested resource isn't a valid image for /images/laser%20healthysan.jpg received text/html; charset=utf-8
+ GET /images/laser-healthysan.jpg 404 in 14ms
+ ⨯ The requested resource isn't a valid image for /images/laser-healthysan.jpg received text/html; charset=utf-8
+ GET /images/laser%20healthysan.webp 404 in 14ms
+ ⨯ The requested resource isn't a valid image for /images/laser%20healthysan.webp received text/html; charset=utf-8
+ GET /images/macchinario%20laser.jpg 404 in 12ms
+ ⨯ The requested resource isn't a valid image for /images/macchinario%20laser.jpg received text/html; charset=utf-8
+ GET / 200 in 242ms
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1570172619647-dfcb53f8e8fe?auto=format&fit=crop&w=900&q=80 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1512290923902-8a9f81dc2360?auto=format&fit=crop&w=900&q=80 404
+ ○ Compiling /urban-spa ...
+ ✓ Compiled /urban-spa in 550ms (1419 modules)
+ GET /urban-spa 200 in 644ms
+ ✓ Compiled /voucher-regalo in 395ms (1432 modules)
+ GET /voucher-regalo 200 in 483ms
+ ✓ Compiled /_not-found in 212ms (1436 modules)
+ GET /images/voucher%20regalo.jpg 404 in 360ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%20regalo.jpg received text/html; charset=utf-8
+ GET /images/voucher%20healthy%20san.jpg 404 in 361ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%20healthy%20san.jpg received text/html; charset=utf-8
+ GET /images/voucher%20regalo.jpg 404 in 17ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%20regalo.jpg received text/html; charset=utf-8
+ GET /images/voucher%20healthy%20san.jpg 404 in 18ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%20healthy%20san.jpg received text/html; charset=utf-8
+ ○ Compiling /trattamenti ...
+ ✓ Compiled /trattamenti in 656ms (1443 modules)
+ GET /trattamenti 200 in 762ms
+ GET /images/laser%20healthysan.jpg 404 in 113ms
+ ⨯ The requested resource isn't a valid image for /images/laser%20healthysan.jpg received text/html; charset=utf-8
+ GET /images/laser-healthysan.jpg 404 in 12ms
+ ⨯ The requested resource isn't a valid image for /images/laser-healthysan.jpg received text/html; charset=utf-8
+ GET /images/laser%20healthysan.webp 404 in 11ms
+ ⨯ The requested resource isn't a valid image for /images/laser%20healthysan.webp received text/html; charset=utf-8
+ GET /images/macchinario%20laser.jpg 404 in 10ms
+ ⨯ The requested resource isn't a valid image for /images/macchinario%20laser.jpg received text/html; charset=utf-8
+ GET /images/laser%20healthysan.jpg 404 in 15ms
+ ⨯ The requested resource isn't a valid image for /images/laser%20healthysan.jpg received text/html; charset=utf-8
+ GET /images/laser-healthysan.jpg 404 in 11ms
+ ⨯ The requested resource isn't a valid image for /images/laser-healthysan.jpg received text/html; charset=utf-8
+ GET /images/laser%20healthysan.webp 404 in 9ms
+ ⨯ The requested resource isn't a valid image for /images/laser%20healthysan.webp received text/html; charset=utf-8
+ GET /images/macchinario%20laser.jpg 404 in 10ms
+ ⨯ The requested resource isn't a valid image for /images/macchinario%20laser.jpg received text/html; charset=utf-8
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1570172619647-dfcb53f8e8fe?auto=format&fit=crop&w=900&q=80 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1512290923902-8a9f81dc2360?auto=format&fit=crop&w=900&q=80 404
+ GET / 200 in 33ms
+ GET /images/laser%20healthysan.jpg 404 in 23ms
+ ⨯ The requested resource isn't a valid image for /images/laser%20healthysan.jpg received text/html; charset=utf-8
+ GET /images/laser-healthysan.jpg 404 in 11ms
+ ⨯ The requested resource isn't a valid image for /images/laser-healthysan.jpg received text/html; charset=utf-8
+ GET /images/laser%20healthysan.webp 404 in 14ms
+ ⨯ The requested resource isn't a valid image for /images/laser%20healthysan.webp received text/html; charset=utf-8
+ GET /images/macchinario%20laser.jpg 404 in 13ms
+ ⨯ The requested resource isn't a valid image for /images/macchinario%20laser.jpg received text/html; charset=utf-8
+ GET /images/laser%20healthysan.jpg 404 in 12ms
+ ⨯ The requested resource isn't a valid image for /images/laser%20healthysan.jpg received text/html; charset=utf-8
+ GET /images/laser-healthysan.jpg 404 in 11ms
+ ⨯ The requested resource isn't a valid image for /images/laser-healthysan.jpg received text/html; charset=utf-8
+ GET /images/laser%20healthysan.webp 404 in 10ms
+ ⨯ The requested resource isn't a valid image for /images/laser%20healthysan.webp received text/html; charset=utf-8
+ GET /images/macchinario%20laser.jpg 404 in 11ms
+ ⨯ The requested resource isn't a valid image for /images/macchinario%20laser.jpg received text/html; charset=utf-8
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1570172619647-dfcb53f8e8fe?auto=format&fit=crop&w=900&q=80 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1512290923902-8a9f81dc2360?auto=format&fit=crop&w=900&q=80 404
+ GET /trattamenti 200 in 13ms
+ GET /images/laser%20healthysan.jpg 404 in 13ms
+ ⨯ The requested resource isn't a valid image for /images/laser%20healthysan.jpg received text/html; charset=utf-8
+ GET /images/laser-healthysan.jpg 404 in 11ms
+ ⨯ The requested resource isn't a valid image for /images/laser-healthysan.jpg received text/html; charset=utf-8
+ GET /images/laser%20healthysan.webp 404 in 12ms
+ ⨯ The requested resource isn't a valid image for /images/laser%20healthysan.webp received text/html; charset=utf-8
+ GET /images/macchinario%20laser.jpg 404 in 9ms
+ ⨯ The requested resource isn't a valid image for /images/macchinario%20laser.jpg received text/html; charset=utf-8
+ GET /images/laser%20healthysan.jpg 404 in 9ms
+ ⨯ The requested resource isn't a valid image for /images/laser%20healthysan.jpg received text/html; charset=utf-8
+ GET /images/laser-healthysan.jpg 404 in 9ms
+ ⨯ The requested resource isn't a valid image for /images/laser-healthysan.jpg received text/html; charset=utf-8
+ GET /images/laser%20healthysan.webp 404 in 10ms
+ ⨯ The requested resource isn't a valid image for /images/laser%20healthysan.webp received text/html; charset=utf-8
+ GET /images/macchinario%20laser.jpg 404 in 8ms
+ ⨯ The requested resource isn't a valid image for /images/macchinario%20laser.jpg received text/html; charset=utf-8
+ GET / 200 in 15ms
+ GET /images/laser%20healthysan.jpg 404 in 10ms
+ ⨯ The requested resource isn't a valid image for /images/laser%20healthysan.jpg received text/html; charset=utf-8
+ GET /images/laser%20healthysan.jpg 404 in 9ms
+ ⨯ The requested resource isn't a valid image for /images/laser%20healthysan.jpg received text/html; charset=utf-8
+ GET /images/laser-healthysan.jpg 404 in 9ms
+ ⨯ The requested resource isn't a valid image for /images/laser-healthysan.jpg received text/html; charset=utf-8
+ GET /images/laser%20healthysan.webp 404 in 8ms
+ ⨯ The requested resource isn't a valid image for /images/laser%20healthysan.webp received text/html; charset=utf-8
+ GET /images/macchinario%20laser.jpg 404 in 9ms
+ ⨯ The requested resource isn't a valid image for /images/macchinario%20laser.jpg received text/html; charset=utf-8
+ GET /images/laser%20healthysan.jpg 404 in 9ms
+ ⨯ The requested resource isn't a valid image for /images/laser%20healthysan.jpg received text/html; charset=utf-8
+ GET /images/laser-healthysan.jpg 404 in 9ms
+ ⨯ The requested resource isn't a valid image for /images/laser-healthysan.jpg received text/html; charset=utf-8
+ GET /images/laser%20healthysan.webp 404 in 9ms
+ ⨯ The requested resource isn't a valid image for /images/laser%20healthysan.webp received text/html; charset=utf-8
+ GET /images/macchinario%20laser.jpg 404 in 10ms
+ ⨯ The requested resource isn't a valid image for /images/macchinario%20laser.jpg received text/html; charset=utf-8
+ GET /urban-spa 200 in 14ms
+ ○ Compiling /prodotti ...
+ ✓ Compiled /prodotti in 574ms (1451 modules)
+ GET /prodotti 200 in 658ms
+ GET /voucher-regalo 200 in 25ms
+ GET /images/voucher%20regalo.jpg 404 in 105ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%20regalo.jpg received text/html; charset=utf-8
+ GET /images/voucher%20healthy%20san.jpg 404 in 106ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%20healthy%20san.jpg received text/html; charset=utf-8
+ GET /images/voucher%20regalo.jpg 404 in 20ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%20regalo.jpg received text/html; charset=utf-8
+ GET /images/voucher%20healthy%20san.jpg 404 in 21ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%20healthy%20san.jpg received text/html; charset=utf-8
+ GET /voucher-regalo 200 in 10ms
+ ✓ Compiled in 678ms (1441 modules)
+ ✓ Compiled /_not-found in 273ms (1445 modules)
+ GET /voucher-regalo 404 in 389ms
+ GET /voucher-regalo 200 in 44ms
+ GET /voucher-regalo 200 in 119ms
+ GET /images/voucher%20regalo.jpg 404 in 14ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%20regalo.jpg received text/html; charset=utf-8
+ GET /images/voucher%20healthy%20san.jpg 404 in 13ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%20healthy%20san.jpg received text/html; charset=utf-8
+ GET /images/voucher%20regalo.jpg 404 in 27ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%20regalo.jpg received text/html; charset=utf-8
+ GET /images/voucher%20healthy%20san.jpg 404 in 28ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%20healthy%20san.jpg received text/html; charset=utf-8
+ ✓ Compiled in 916ms (1459 modules)
+ GET /voucher-regalo 200 in 67ms
+ ✓ Compiled in 571ms (1459 modules)
+ GET /voucher-regalo 200 in 77ms
+ ✓ Compiled in 1160ms (1445 modules)
+ GET /voucher-regalo 200 in 74ms
+ ✓ Compiled in 367ms (705 modules)
+ GET /voucher-regalo 200 in 33ms
+ ✓ Compiled in 269ms (705 modules)
+ GET /voucher-regalo 200 in 27ms
+ ✓ Compiled in 255ms (705 modules)
+ GET /voucher-regalo 200 in 26ms
+ ✓ Compiled in 225ms (705 modules)
+ GET /voucher-regalo 200 in 28ms
+ ✓ Compiled in 656ms (1459 modules)
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 614ms (1687 modules)
+ GET /voucher-regalo 404 in 974ms
+ GET /voucher-regalo 200 in 81ms
+ GET /voucher-regalo 200 in 15ms
+ GET /voucher-regalo 200 in 112ms
+ GET /images/voucher%20regalo.jpg 404 in 31ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%20regalo.jpg received text/html; charset=utf-8
+ GET /images/voucher%20healthy%20san.jpg 404 in 30ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%20healthy%20san.jpg received text/html; charset=utf-8
+ ✓ Compiled in 562ms (1704 modules)
+ GET /voucher-regalo 200 in 84ms
+ ✓ Compiled in 410ms (1690 modules)
+ GET /voucher-regalo 200 in 72ms
+ ✓ Compiled in 602ms (1698 modules)
+ GET /voucher-regalo 200 in 54ms
+ ✓ Compiled in 1604ms (1698 modules)
+ GET /voucher-regalo 200 in 1452ms
+ GET /voucher-regalo 200 in 11ms
+ ✓ Compiled in 347ms (1698 modules)
+ ✓ Compiled /_not-found in 253ms (1688 modules)
+ GET /voucher-regalo 404 in 310ms
+ GET /voucher-regalo 200 in 165ms
+ GET /images/voucher%20regalo.jpg 404 in 14ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%20regalo.jpg received text/html; charset=utf-8
+ GET /images/voucher%20healthy%20san.jpg 404 in 13ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%20healthy%20san.jpg received text/html; charset=utf-8
+ GET /images/voucher%20regalo.jpg 404 in 18ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%20regalo.jpg received text/html; charset=utf-8
+ GET /images/voucher%20healthy%20san.jpg 404 in 18ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%20healthy%20san.jpg received text/html; charset=utf-8
+ ✓ Compiled in 372ms (1702 modules)
+ GET /voucher-regalo 200 in 46ms
+ ✓ Compiled in 440ms (1702 modules)
+ GET /voucher-regalo 200 in 51ms
+ ✓ Compiled in 220ms (902 modules)
+ GET /voucher-regalo 200 in 24ms
+ ✓ Compiled in 282ms (902 modules)
+ GET /voucher-regalo 200 in 24ms
+ ⨯ Error: Cannot find module './635.js'
+Require stack:
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\(site)\voucher-regalo\page.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\require.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\load-components.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\utils.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\swc\options.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\swc\index.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\config.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\next.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\lib\start-server.js
+    at __webpack_require__.f.require (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:198:28)
+    at <unknown> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:162:22)
+    at <unknown> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\_not-found\page.js:1:9441)
+    at Object.<anonymous> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\_not-found\page.js:1:9482) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ✓ Compiled in 433ms (902 modules)
+ GET /voucher-regalo 200 in 134ms
+ ✓ Compiled /_error in 478ms (1690 modules)
+ GET /_next/static/css/app/layout.css?v=1777341579676 500 in 1828ms
+ ⨯ Error: Cannot find module './635.js'
+Require stack:
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\_not-found\page.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\require.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\load-components.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\utils.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\swc\options.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\swc\index.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\config.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\next.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\lib\start-server.js
+    at __webpack_require__.f.require (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:198:28)
+    at <unknown> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:162:22)
+    at <unknown> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\_not-found\page.js:1:9441)
+    at Object.<anonymous> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\_not-found\page.js:1:9482) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET /_next/static/css/app/layout.css?v=1777341580904 500 in 562ms
+ ✓ Compiled in 496ms (1704 modules)
+ ⨯ Error: Cannot find module './635.js'
+Require stack:
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\(site)\voucher-regalo\page.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\require.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\load-components.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\utils.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\swc\options.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\swc\index.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\config.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\next.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\lib\start-server.js
+    at __webpack_require__.f.require (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:198:28)
+    at <unknown> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:162:22)
+    at <unknown> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\(site)\voucher-regalo\page.js:1:14618)
+    at Object.<anonymous> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\(site)\voucher-regalo\page.js:1:14667) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/voucher-regalo'
+}
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\(site)\voucher-regalo\page.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\require.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\load-components.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\utils.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\swc\options.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\swc\index.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\config.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\next.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\lib\start-server.js
+    at __webpack_require__.f.require (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:198:28)
+    at <unknown> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:162:22)
+    at <unknown> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\pages\_document.js:1:335)
+    at Object.<anonymous> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\pages\_document.js:1:376) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET /voucher-regalo 500 in 92ms
+ ⨯ Error: Cannot find module './635.js'
+Require stack:
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\(site)\voucher-regalo\page.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\require.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\load-components.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\utils.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\swc\options.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\swc\index.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\config.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\next.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\lib\start-server.js
+    at __webpack_require__.f.require (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:198:28)
+    at <unknown> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:162:22)
+    at <unknown> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\(site)\voucher-regalo\page.js:1:14618)
+    at Object.<anonymous> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\(site)\voucher-regalo\page.js:1:14667) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/voucher-regalo'
+}
+ ⨯ Error: Cannot find module './627.js'
+Require stack:
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\(site)\voucher-regalo\page.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\require.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\load-components.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\utils.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\swc\options.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\swc\index.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\config.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\next.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\lib\start-server.js
+    at __webpack_require__.f.require (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:198:28)
+    at <unknown> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:162:22)
+    at <unknown> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\pages\_document.js:1:335)
+    at Object.<anonymous> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\pages\_document.js:1:376) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET /voucher-regalo 500 in 46ms
+ ⨯ Error: Cannot find module './635.js'
+Require stack:
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\(site)\voucher-regalo\page.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\require.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\load-components.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\utils.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\swc\options.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\swc\index.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\config.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\next.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\lib\start-server.js
+    at __webpack_require__.f.require (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:198:28)
+    at <unknown> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:162:22)
+    at <unknown> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\_not-found\page.js:1:9441)
+    at Object.<anonymous> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\_not-found\page.js:1:9482) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⨯ Error: Cannot find module './635.js'
+Require stack:
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\(site)\voucher-regalo\page.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\require.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\load-components.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\utils.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\swc\options.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\swc\index.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\config.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\next.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\lib\start-server.js
+    at __webpack_require__.f.require (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:198:28)
+    at <unknown> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:162:22)
+    at <unknown> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\_not-found\page.js:1:9441)
+    at Object.<anonymous> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\_not-found\page.js:1:9482) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⨯ Error: Cannot find module './635.js'
+Require stack:
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\(site)\voucher-regalo\page.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\require.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\load-components.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\utils.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\swc\options.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\swc\index.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\config.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\next.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\lib\start-server.js
+    at __webpack_require__.f.require (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:198:28)
+    at <unknown> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:162:22)
+    at <unknown> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\_not-found\page.js:1:9441)
+    at Object.<anonymous> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\_not-found\page.js:1:9482) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⨯ Error: Cannot find module './635.js'
+Require stack:
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\(site)\voucher-regalo\page.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\require.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\load-components.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\utils.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\swc\options.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\swc\index.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\config.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\next.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\lib\start-server.js
+    at __webpack_require__.f.require (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:198:28)
+    at <unknown> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:162:22)
+    at <unknown> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\_not-found\page.js:1:9441)
+    at Object.<anonymous> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\_not-found\page.js:1:9482) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ ⨯ Error: Cannot find module './635.js'
+Require stack:
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\(site)\voucher-regalo\page.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\require.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\load-components.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\utils.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\swc\options.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\swc\index.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\config.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\next.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\lib\start-server.js
+    at __webpack_require__.f.require (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:198:28)
+    at <unknown> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:162:22)
+    at <unknown> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\_not-found\page.js:1:9441)
+    at Object.<anonymous> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\_not-found\page.js:1:9482) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+ GET /_next/static/chunks/fallback/webpack.js 500 in 111ms
+ GET /_next/static/chunks/fallback/main.js 500 in 109ms
+ GET /_next/static/chunks/fallback/react-refresh.js 500 in 109ms
+ GET /_next/static/chunks/fallback/pages/_app.js 500 in 106ms
+ GET /_next/static/chunks/fallback/pages/_error.js 500 in 105ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\server-development\0.pack.gz_' -> 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\server-development\0.pack.gz'
+ ✓ Compiled in 994ms (1698 modules)
+ ✓ Compiled in 1128ms (1698 modules)
+ ✓ Compiled in 598ms (1698 modules)
+ ✓ Compiled in 678ms (1698 modules)
+ ✓ Compiled in 468ms (1698 modules)
+ ✓ Compiled in 666ms (1698 modules)
+ ✓ Compiled in 1096ms (1702 modules)
+ ✓ Compiled in 438ms (1702 modules)
+ ✓ Compiled /_not-found in 337ms (1692 modules)
+ GET /voucher-regalo 404 in 527ms
+ ✓ Compiled in 413ms (903 modules)
+ ✓ Compiled in 482ms (1706 modules)
+ ✓ Compiled in 502ms (1706 modules)
+ ✓ Compiled in 484ms (1706 modules)
+ ✓ Compiled in 763ms (1706 modules)
+ ✓ Compiled in 511ms (1706 modules)
+ ✓ Compiled in 303ms (1688 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\server-development\0.pack.gz_' -> 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\server-development\0.pack.gz'
+ ✓ Compiled in 854ms (1702 modules)
+ ✓ Compiled in 946ms (1702 modules)
+ ✓ Compiled in 804ms (900 modules)
+ ✓ Compiled in 366ms (1688 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\server-development\0.pack.gz_' -> 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\server-development\0.pack.gz'
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\3.pack.gz_' -> 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\3.pack.gz'
+[?25h
+
+---
+exit_code: 0
+elapsed_ms: 6303608
+ended_at: 2026-04-28T03:31:46.803Z
+---

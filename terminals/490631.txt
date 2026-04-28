@@ -1,0 +1,237 @@
+---
+pid: 24356
+cwd: "C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40"
+command: "Set-Location \"C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\"; & \"C:\\Program Files\\nodejs\\npm.cmd\" run dev"
+started_at: 2026-04-28T01:35:53.798Z
+running_for_ms: 6948112  
+---
+
+> healthysan-landing@0.1.0 dev
+> next dev
+
+ ⚠ Port 3000 is in use, trying 3001 instead.
+ ⚠ Port 3001 is in use, trying 3002 instead.
+ ⚠ Port 3002 is in use, trying 3003 instead.
+ ⚠ Port 3003 is in use, trying 3004 instead.
+   ▲ Next.js 15.1.3
+   - Local:        http://localhost:3004
+   - Network:      http://192.168.0.59:3004
+
+ ✓ Starting...
+ ✓ Ready in 5.9s
+ ○ Compiling / ...
+ ✓ Compiled / in 4.7s (1428 modules)
+ ✓ Compiled in 747ms (692 modules)
+ GET / 200 in 5546ms
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1570172619647-dfcb53f8e8fe?auto=format&fit=crop&w=900&q=80 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1512290923902-8a9f81dc2360?auto=format&fit=crop&w=900&q=80 404
+ ✓ Compiled /scheda-cliente in 438ms (1415 modules)
+ GET /scheda-cliente 200 in 533ms
+ ✓ Compiled /trattamenti in 381ms (1422 modules)
+ GET /trattamenti 200 in 461ms
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1570172619647-dfcb53f8e8fe?auto=format&fit=crop&w=900&q=80 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1512290923902-8a9f81dc2360?auto=format&fit=crop&w=900&q=80 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1570172619647-dfcb53f8e8fe?auto=format&fit=crop&w=900&q=80 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1512290923902-8a9f81dc2360?auto=format&fit=crop&w=900&q=80 404
+ ✓ Compiled /urban-spa in 316ms (1430 modules)
+ GET /urban-spa 200 in 386ms
+ GET /trattamenti 200 in 28ms
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1512290923902-8a9f81dc2360?auto=format&fit=crop&w=900&q=80 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1570172619647-dfcb53f8e8fe?auto=format&fit=crop&w=900&q=80 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1512290923902-8a9f81dc2360?auto=format&fit=crop&w=900&q=80 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1570172619647-dfcb53f8e8fe?auto=format&fit=crop&w=900&q=80 404
+ ✓ Compiled in 639ms (1445 modules)
+ GET /trattamenti 200 in 130ms
+ ✓ Compiled in 332ms (1444 modules)
+ GET /trattamenti 200 in 130ms
+ ✓ Compiled in 187ms (698 modules)
+ GET /trattamenti 200 in 24ms
+ ✓ Compiled in 338ms (1430 modules)
+ GET /trattamenti 200 in 75ms
+ ✓ Compiled in 205ms (698 modules)
+ GET /trattamenti 200 in 25ms
+ ✓ Compiled in 180ms (698 modules)
+ GET /trattamenti 200 in 22ms
+ ✓ Compiled in 482ms (1430 modules)
+ GET /trattamenti 200 in 75ms
+ ✓ Compiled in 320ms (1430 modules)
+ GET /trattamenti 200 in 74ms
+ ✓ Compiled in 258ms (698 modules)
+ GET /trattamenti 200 in 23ms
+ ✓ Compiled in 650ms (1447 modules)
+ GET /trattamenti 200 in 70ms
+ ✓ Compiled /_not-found in 304ms (1437 modules)
+ GET /images/laser%20healthysan.jpg 404 in 446ms
+ ⨯ The requested resource isn't a valid image for /images/laser%20healthysan.jpg received text/html; charset=utf-8
+ GET /images/laser-healthysan.jpg 404 in 11ms
+ ⨯ The requested resource isn't a valid image for /images/laser-healthysan.jpg received text/html; charset=utf-8
+ GET /images/laser%20healthysan.webp 404 in 10ms
+ ⨯ The requested resource isn't a valid image for /images/laser%20healthysan.webp received text/html; charset=utf-8
+ GET /images/macchinario%20laser.jpg 404 in 9ms
+ ⨯ The requested resource isn't a valid image for /images/macchinario%20laser.jpg received text/html; charset=utf-8
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1512290923902-8a9f81dc2360?auto=format&fit=crop&w=900&q=80 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1570172619647-dfcb53f8e8fe?auto=format&fit=crop&w=900&q=80 404
+ ✓ Compiled in 346ms (1451 modules)
+ GET /trattamenti 200 in 52ms
+ ✓ Compiled in 363ms (1451 modules)
+ GET /trattamenti 200 in 50ms
+ ✓ Compiled in 301ms (1451 modules)
+ GET /trattamenti 200 in 46ms
+ ✓ Compiled in 565ms (1451 modules)
+ GET /trattamenti 200 in 48ms
+ ✓ Compiled in 183ms (702 modules)
+ GET /trattamenti 200 in 21ms
+ ✓ Compiled in 167ms (702 modules)
+ GET /trattamenti 200 in 20ms
+ ✓ Compiled in 298ms (1451 modules)
+ GET /trattamenti 200 in 41ms
+ ✓ Compiled in 136ms (749 modules)
+ GET /trattamenti 200 in 35ms
+ ✓ Compiled in 176ms (749 modules)
+ GET /trattamenti 200 in 33ms
+ ✓ Compiled in 172ms (702 modules)
+ GET /trattamenti 200 in 23ms
+ ✓ Compiled in 415ms (1451 modules)
+ GET /trattamenti 200 in 76ms
+ ✓ Compiled in 326ms (1451 modules)
+ GET /trattamenti 200 in 58ms
+ ✓ Compiled in 249ms (702 modules)
+ GET /trattamenti 200 in 39ms
+ ✓ Compiled in 189ms (702 modules)
+ GET /trattamenti 200 in 22ms
+ ✓ Compiled in 293ms (702 modules)
+ GET /trattamenti 200 in 25ms
+ ✓ Compiled in 505ms (1448 modules)
+ GET /trattamenti 200 in 68ms
+ ✓ Compiled in 376ms (1448 modules)
+ GET /trattamenti 200 in 66ms
+ ✓ Compiled in 336ms (1448 modules)
+ GET /trattamenti 200 in 63ms
+ ✓ Compiled in 381ms (1450 modules)
+ GET /trattamenti 200 in 62ms
+ ✓ Compiled in 299ms (1450 modules)
+ GET /trattamenti 200 in 63ms
+ ✓ Compiled in 317ms (1450 modules)
+ GET /trattamenti 200 in 65ms
+ ✓ Compiled in 396ms (1450 modules)
+ GET /trattamenti 200 in 63ms
+ ✓ Compiled in 422ms (1450 modules)
+ GET /trattamenti 200 in 81ms
+ ✓ Compiled in 123ms (750 modules)
+ GET /trattamenti 200 in 43ms
+ ✓ Compiled in 253ms (1436 modules)
+ GET /trattamenti 200 in 84ms
+ ✓ Compiled in 631ms (1450 modules)
+ ⨯ Error: Cannot find module './635.js'
+Require stack:
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\(site)\trattamenti\page.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\require.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\load-components.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\utils.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\swc\options.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\swc\index.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\config.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\next.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\lib\start-server.js
+    at __webpack_require__.f.require (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:198:28)
+    at <unknown> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:162:22)
+    at <unknown> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\(site)\trattamenti\page.js:1:20215)
+    at Object.<anonymous> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\(site)\trattamenti\page.js:1:20267) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/trattamenti'
+}
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 1321ms (1678 modules)
+ GET /trattamenti 500 in 1866ms
+ GET /trattamenti 200 in 98ms
+ GET /trattamenti 200 in 23ms
+ GET /trattamenti 200 in 362ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 1224ms (1682 modules)
+ GET /images/laser%20healthysan.jpg 404 in 1435ms
+ ⨯ The requested resource isn't a valid image for /images/laser%20healthysan.jpg received text/html; charset=utf-8
+ GET /_next/static/css/app/layout.css?v=1777340783743 404 in 1436ms
+ GET /_next/static/chunks/main-app.js?v=1777340783743 404 in 1454ms
+ GET /_next/static/chunks/app-pages-internals.js 404 in 1432ms
+ GET /_next/static/chunks/app/template.js 404 in 1404ms
+ GET /_next/static/chunks/app/(site)/layout.js 404 in 36ms
+ GET /_next/static/chunks/app/(site)/trattamenti/page.js 404 in 36ms
+ ✓ Compiled in 788ms (1676 modules)
+ ✓ Compiled in 631ms (1690 modules)
+ ✓ Compiled in 675ms (1690 modules)
+ ✓ Compiled in 354ms (1676 modules)
+ ✓ Compiled in 301ms (896 modules)
+ ✓ Compiled in 237ms (896 modules)
+ ✓ Compiled in 254ms (896 modules)
+ ✓ Compiled in 265ms (896 modules)
+ ✓ Compiled in 718ms (1690 modules)
+ ✓ Compiled in 445ms (1693 modules)
+ ✓ Compiled in 307ms (1679 modules)
+ ✓ Compiled in 551ms (1696 modules)
+ ✓ Compiled in 831ms (1682 modules)
+ ✓ Compiled in 454ms (1696 modules)
+ ✓ Compiled in 346ms (1696 modules)
+ ✓ Compiled in 336ms (1696 modules)
+ ✓ Compiled in 369ms (1696 modules)
+ ✓ Compiled in 241ms (898 modules)
+ ✓ Compiled in 286ms (898 modules)
+ ✓ Compiled in 232ms (898 modules)
+ ✓ Compiled in 544ms (1696 modules)
+ ✓ Compiled in 966ms (1696 modules)
+ ✓ Compiled in 1144ms (1696 modules)
+ ✓ Compiled in 624ms (1696 modules)
+ ✓ Compiled in 732ms (1696 modules)
+ ✓ Compiled in 470ms (1696 modules)
+ ✓ Compiled in 477ms (1696 modules)
+ ✓ Compiled in 520ms (898 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\8.pack.gz_' -> 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\8.pack.gz'
+ ✓ Compiled in 456ms (1696 modules)
+ ✓ Compiled in 310ms (898 modules)
+ ✓ Compiled in 504ms (1696 modules)
+ ✓ Compiled in 445ms (1696 modules)
+ ✓ Compiled in 443ms (1696 modules)
+ ✓ Compiled in 548ms (1696 modules)
+ ✓ Compiled in 418ms (1696 modules)
+ ✓ Compiled in 329ms (1682 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\server-development\0.pack.gz_' -> 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\server-development\0.pack.gz'
+ ✓ Compiled in 568ms (898 modules)
+ ✓ Compiled in 440ms (898 modules)
+ ✓ Compiled in 428ms (898 modules)
+ ✓ Compiled in 375ms (1682 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\server-development\0.pack.gz_' -> 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\server-development\0.pack.gz'
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\4.pack.gz_' -> 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\4.pack.gz'
+ ✓ Compiled in 789ms (898 modules)
+ ✓ Compiled in 1024ms (1697 modules)
+ ✓ Compiled in 691ms (1697 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\1.pack.gz_' -> 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\1.pack.gz'
+ ✓ Compiled in 932ms (898 modules)
+ ✓ Compiled in 603ms (898 modules)
+ ✓ Compiled in 984ms (1697 modules)
+ ✓ Compiled in 1363ms (1697 modules)
+ ✓ Compiled in 424ms (898 modules)
+ ✓ Compiled in 396ms (898 modules)
+ ✓ Compiled in 875ms (1697 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\server-development\5.pack.gz_' -> 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\server-development\5.pack.gz'
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\6.pack.gz_' -> 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\6.pack.gz'
+ ✓ Compiled in 563ms (898 modules)
+ ✓ Compiled in 349ms (898 modules)
+ ✓ Compiled in 926ms (898 modules)
+ ✓ Compiled in 625ms (898 modules)
+ ✓ Compiled in 477ms (898 modules)
+ ✓ Compiled in 696ms (898 modules)
+ ✓ Compiled in 1259ms (1700 modules)
+ ✓ Compiled in 819ms (1700 modules)
+[?25h
+
+---
+exit_code: 0
+elapsed_ms: 6953023
+ended_at: 2026-04-28T03:31:46.821Z
+---

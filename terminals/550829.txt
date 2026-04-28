@@ -1,0 +1,36 @@
+---
+pid: 34088
+cwd: "C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40"
+command: "Set-Location \"C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\"; & \"C:\\Program Files\\nodejs\\npm.cmd\" run build"
+started_at: 2026-04-28T02:35:32.487Z
+running_for_ms: 10471    
+---
+
+> healthysan-landing@0.1.0 build
+> next build
+
+   ▲ Next.js 15.1.3
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully
+   Linting and checking validity of types ...
+   Collecting page data ...
+unhandledRejection [Error: Cannot find module './627.js'
+Require stack:
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\pages\_document.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\require.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\load-components.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\utils.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\worker.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\compiled\jest-worker\processChild.js] {
+  type: 'Error',
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array]
+}
+
+---
+exit_code: 1
+elapsed_ms: 11626
+ended_at: 2026-04-28T02:35:44.113Z
+---

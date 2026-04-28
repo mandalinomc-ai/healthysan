@@ -1,0 +1,48 @@
+---
+pid: 29888
+cwd: "C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40"
+command: "Set-Location \"C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\"; & \"C:\\Program Files\\nodejs\\npm.cmd\" run build"
+started_at: 2026-04-28T02:35:54.706Z
+running_for_ms: 13414    
+---
+
+> healthysan-landing@0.1.0 build
+> next build
+
+   ▲ Next.js 15.1.3
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/10) ...
+   Generating static pages (2/10) 
+   Generating static pages (4/10) 
+   Generating static pages (7/10) 
+ ✓ Generating static pages (10/10)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                              Size     First Load JS
+┌ ○ /                                    4.46 kB         160 kB
+├ ○ /_not-found                          979 B           106 kB
+├ ○ /prodotti                            3.94 kB         153 kB
+├ ○ /scheda-cliente                      2.12 kB         108 kB
+├ ○ /servizi                             1.54 kB         151 kB
+├ ○ /trattamenti                         2.61 kB         155 kB
+├ ○ /urban-spa                           2.83 kB         158 kB
+└ ○ /voucher-regalo                      3.52 kB         153 kB
++ First Load JS shared by all            105 kB
+  ├ chunks/4bd1b696-927b5d87d2664d33.js  52.9 kB
+  ├ chunks/517-e7379de3fc4a7cb1.js       50.5 kB
+  └ other shared chunks (total)          1.98 kB
+
+
+○  (Static)  prerendered as static content
+
+
+---
+exit_code: 0
+elapsed_ms: 18209
+ended_at: 2026-04-28T02:36:12.915Z
+---

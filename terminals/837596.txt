@@ -1,0 +1,118 @@
+---
+pid: 31060
+cwd: "C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40"
+command: "Set-Location \"C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\"; & \"C:\\Program Files\\nodejs\\npm.cmd\" run dev"
+started_at: 2026-04-28T02:02:08.955Z
+running_for_ms: 5376673  
+---
+
+> healthysan-landing@0.1.0 dev
+> next dev
+
+ ⚠ Port 3000 is in use, trying 3001 instead.
+ ⚠ Port 3001 is in use, trying 3002 instead.
+ ⚠ Port 3002 is in use, trying 3003 instead.
+ ⚠ Port 3003 is in use, trying 3004 instead.
+ ⚠ Port 3004 is in use, trying 3005 instead.
+ ⚠ Port 3005 is in use, trying 3006 instead.
+   ▲ Next.js 15.1.3
+   - Local:        http://localhost:3006
+   - Network:      http://192.168.0.59:3006
+
+ ✓ Starting...
+ ✓ Ready in 1871ms
+ ○ Compiling / ...
+ ✓ Compiled / in 4.5s (1428 modules)
+ ✓ Compiled in 657ms (695 modules)
+ GET / 200 in 5659ms
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1570172619647-dfcb53f8e8fe?auto=format&fit=crop&w=1200&q=85 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1544161515-4ab6be6adb8e?auto=format&fit=crop&w=1200&q=85 404
+ ✓ Compiled /prodotti in 479ms (1422 modules)
+ GET /prodotti 200 in 583ms
+ GET / 200 in 38ms
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1570172619647-dfcb53f8e8fe?auto=format&fit=crop&w=1200&q=85 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1544161515-4ab6be6adb8e?auto=format&fit=crop&w=1200&q=85 404
+ ✓ Compiled /trattamenti in 403ms (1432 modules)
+ GET /trattamenti 200 in 468ms
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1570172619647-dfcb53f8e8fe?auto=format&fit=crop&w=1200&q=85 404
+ ⨯ upstream image response failed for https://images.unsplash.com/photo-1544161515-4ab6be6adb8e?auto=format&fit=crop&w=1200&q=85 404
+ ✓ Compiled /_not-found in 320ms (1436 modules)
+ GET /images/retinol%20bioline.jpg 404 in 464ms
+ ⨯ The requested resource isn't a valid image for /images/retinol%20bioline.jpg received text/html; charset=utf-8
+ GET /images/retinol%20bioline.png 404 in 12ms
+ ⨯ The requested resource isn't a valid image for /images/retinol%20bioline.png received text/html; charset=utf-8
+ ○ Compiling /voucher-regalo ...
+ ✓ Compiled /voucher-regalo in 545ms (1442 modules)
+ GET /voucher-regalo 200 in 649ms
+ ✓ Compiled /_not-found in 248ms (1446 modules)
+ GET /images/voucher%20regalo.jpg 404 in 422ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%20regalo.jpg received text/html; charset=utf-8
+ GET /images/voucher%20healthy%20san.jpg 404 in 423ms
+ ⨯ The requested resource isn't a valid image for /images/voucher%20healthy%20san.jpg received text/html; charset=utf-8
+ ✓ Compiled in 1286ms (1456 modules)
+ ✓ Compiled in 678ms (1456 modules)
+ ✓ Compiled in 527ms (1456 modules)
+ ✓ Compiled in 766ms (1456 modules)
+ ✓ Compiled in 420ms (1456 modules)
+ ✓ Compiled in 441ms (1456 modules)
+ ✓ Compiled in 1048ms (1460 modules)
+ ✓ Compiled in 299ms (702 modules)
+ ✓ Compiled in 548ms (1460 modules)
+ ✓ Compiled in 423ms (1460 modules)
+ ✓ Compiled in 393ms (1460 modules)
+ ✓ Compiled in 410ms (1460 modules)
+ ✓ Compiled in 650ms (1460 modules)
+ ✓ Compiled in 484ms (1460 modules)
+ ✓ Compiled in 276ms (1446 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\0.pack.gz_' -> 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\0.pack.gz'
+ ✓ Compiled in 771ms (1460 modules)
+ ✓ Compiled in 845ms (1460 modules)
+ ✓ Compiled in 910ms (1460 modules)
+ ✓ Compiled in 324ms (1446 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\3.pack.gz_' -> 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\3.pack.gz'
+ ✓ Compiled in 895ms (702 modules)
+ ✓ Compiled in 937ms (1461 modules)
+ ✓ Compiled in 327ms (702 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\server-development\0.pack.gz_' -> 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\server-development\0.pack.gz'
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\3.pack.gz_' -> 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\3.pack.gz'
+ ✓ Compiled in 1281ms (1461 modules)
+ ✓ Compiled in 1277ms (1461 modules)
+ ✓ Compiled in 484ms (702 modules)
+ ✓ Compiled in 1239ms (1461 modules)
+ ✓ Compiled in 274ms (702 modules)
+ ✓ Compiled in 412ms (702 modules)
+ ✓ Compiled in 906ms (1461 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\6.pack.gz_' -> 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\6.pack.gz'
+ ✓ Compiled in 734ms (1461 modules)
+ ✓ Compiled in 438ms (1461 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\0.pack.gz_' -> 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\0.pack.gz'
+ ✓ Compiled in 850ms (702 modules)
+ ✓ Compiled in 1421ms (1463 modules)
+ ✓ Compiled in 1383ms (1464 modules)
+ ✓ Compiled in 772ms (1464 modules)
+ ✓ Compiled in 755ms (1464 modules)
+ ✓ Compiled in 1051ms (1464 modules)
+ ✓ Compiled in 1084ms (1464 modules)
+ ✓ Compiled in 2.7s (1464 modules)
+ ✓ Compiled in 815ms (1464 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\0.pack.gz_' -> 'C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\cache\webpack\client-development\0.pack.gz'
+ ✓ Compiled in 3s (1464 modules)
+ ✓ Compiled in 742ms (1464 modules)
+ ✓ Compiled in 366ms (703 modules)
+ ✓ Compiled in 610ms (1467 modules)
+ ✓ Compiled in 685ms (1453 modules)
+ ✓ Compiled in 1035ms (1467 modules)
+ ✓ Compiled in 448ms (1453 modules)
+ ✓ Compiled in 489ms (1467 modules)
+ ✓ Compiled in 429ms (704 modules)
+ ✓ Compiled in 473ms (704 modules)
+ ✓ Compiled in 642ms (1467 modules)
+ ✓ Compiled in 803ms (1467 modules)
+ ✓ Compiled in 444ms (704 modules)
+[?25h
+
+---
+exit_code: 0
+elapsed_ms: 5377867
+ended_at: 2026-04-28T03:31:46.822Z
+---

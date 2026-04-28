@@ -1,0 +1,28 @@
+---
+pid: 26980
+cwd: "C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40"
+command: "Set-Location \"C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\"; npm run dev"
+started_at: 2026-04-28T04:19:03.691Z
+running_for_ms: 340451   
+---
+
+> healthysan-landing@0.1.0 dev
+> node scripts/clean-next.js && next dev
+
+ ⚠ Port 3000 is in use, trying 3001 instead.
+   ▲ Next.js 15.1.3
+   - Local:        http://localhost:3001
+   - Network:      http://192.168.0.59:3001
+
+ ✓ Starting...
+ ✓ Ready in 1952ms
+ ○ Compiling / ...
+ ✓ Compiled / in 4.5s (1462 modules)
+ ✓ Compiled in 766ms (697 modules)
+ GET / 200 in 5368ms
+ ✓ Compiled /trattamenti in 352ms (1426 modules)
+ GET /trattamenti 200 in 448ms
+ ✓ Compiled /rituali in 338ms (1432 modules)
+ GET /rituali 200 in 437ms
+ ✓ Compiled /urban-spa in 283ms (1440 modules)
+ GET /urban-spa 200 in 374ms

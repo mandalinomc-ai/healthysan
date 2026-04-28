@@ -1,0 +1,526 @@
+Invoke-WebRequest : body{display:none}body{display:block}{"props":{"pageProps":{"statusCode":500}},"page":"/_error","qu
+ery":{},"buildId":"development","isFallback":false,"err":{"name":"Error","source":"server","message":"Cannot find 
+module './627.js'\nRequire stack:\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54
+d-4228-928c-bccea19ceb40\\.next\\server\\webpack-runtime.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppDa
+ta-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\pages\\_document.js\n- C:\\Users\\pcgam\\.cursor\\pr
+ojects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\requir
+e.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\nod
+e_modules\\next\\dist\\server\\load-components.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-T
+emp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\build\\utils.js\n- C:\\Users\\pcgam\\.cursor\\proje
+cts\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\build\\swc\\optio
+ns.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\no
+de_modules\\next\\dist\\build\\swc\\index.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9
+cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\build\\next-config-ts\\transpile-config.js\n- C:\\Users\
+\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\d
+ist\\server\\config.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c
+-bccea19ceb40\\node_modules\\next\\dist\\server\\next.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-
+Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\lib\\start-server.js","stack":"Error
+: Cannot find module './627.js'\nRequire stack:\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Tem
+p-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\webpack-runtime.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Use
+rs-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\pages\\_document.js\n- C:\\Users\\pcga
+m\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\
+server\\require.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bcc
+ea19ceb40\\node_modules\\next\\dist\\server\\load-components.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-A
+ppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\build\\utils.js\n- C:\\Users\\pcgam\\
+.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\bui
+ld\\swc\\options.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bc
+cea19ceb40\\node_modules\\next\\dist\\build\\swc\\index.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppDat
+a-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\build\\next-config-ts\\transpile-config.js
+\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_mo
+dules\\next\\dist\\server\\config.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-
+b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\next.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-
+pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\lib\\start-server.js\n
+    at Module.\u003canonymous\u003e (node:internal/modules/cjs/loader:1476:15)\n    at C:\\Users\\pcgam\\.cursor\\proje
+cts\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\require-h
+ook.js:55:36\n    at wrapResolveFilename (node:internal/modules/cjs/loader:1049:27)\n    at 
+defaultResolveImplForCJSLoading (node:internal/modules/cjs/loader:1073:10)\n    at resolveForCJSWithHooks 
+(node:internal/modules/cjs/loader:1094:12)\n    at Module._load (node:internal/modules/cjs/loader:1262:25)\n    at 
+wrapModuleLoad (node:internal/modules/cjs/loader:255:19)\n    at Module.\u003canonymous\u003e 
+(node:internal/modules/cjs/loader:1576:12)\n    at mod.require (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppD
+ata-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\require-hook.js:65:28)\n    at 
+require (node:internal/modules/helpers:153:16)\n    at __webpack_require__.f.require (C:\\Users\\pcgam\\.cursor\\projec
+ts\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\webpack-runtime.js:198:28)\n 
+   at C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next
+\\server\\webpack-runtime.js:111:40\n    at Array.reduce (\u003canonymous\u003e)\n    at __webpack_require__.e (C:\\Use
+rs\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\web
+pack-runtime.js:110:67)\n    at Array.map (\u003canonymous\u003e)\n    at __webpack_require__.X (C:\\Users\\pcgam\\.cur
+sor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\webpack-runtime.js
+:162:22)\n    at C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19c
+eb40\\.next\\server\\pages\\_document.js:1:335\n    at Object.\u003canonymous\u003e (C:\\Users\\pcgam\\.cursor\\project
+s\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\pages\\_document.js:1:376)\n  
+  at Module._compile (node:internal/modules/cjs/loader:1830:14)\n    at Object..js 
+(node:internal/modules/cjs/loader:1961:10)\n    at Module.load (node:internal/modules/cjs/loader:1553:32)\n    at 
+Module._load (node:internal/modules/cjs/loader:1355:12)\n    at wrapModuleLoad 
+(node:internal/modules/cjs/loader:255:19)\n    at Module.\u003canonymous\u003e 
+(node:internal/modules/cjs/loader:1576:12)\n    at mod.require (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppD
+ata-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\require-hook.js:65:28)\n    at 
+require (node:internal/modules/helpers:153:16)\n    at requirePage (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-
+AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\require.js:103:84)\n    at 
+loadComponentsImpl (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea
+19ceb40\\node_modules\\next\\dist\\server\\load-components.js:74:38)\n    at DevServer.findPageComponentsImpl (C:\\User
+s\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\
+\dist\\server\\next-server.js:745:77)\n    at C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc
+63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\next-server.js:724:21\n    at C:\\Users\\pcgam\\.c
+ursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\serve
+r\\lib\\trace\\tracer.js:169:36\n    at NoopContextManager.with (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-App
+Data-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\compiled\\@opentelemetry\\api\\index.js
+:1:7062)\n    at ContextAPI.with (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4
+228-928c-bccea19ceb40\\node_modules\\next\\dist\\compiled\\@opentelemetry\\api\\index.js:1:518)\n    at 
+NoopTracer.startActiveSpan (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-92
+8c-bccea19ceb40\\node_modules\\next\\dist\\compiled\\@opentelemetry\\api\\index.js:1:18093)\n    at 
+ProxyTracer.startActiveSpan (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-9
+28c-bccea19ceb40\\node_modules\\next\\dist\\compiled\\@opentelemetry\\api\\index.js:1:18854)\n    at C:\\Users\\pcgam\\
+.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\ser
+ver\\lib\\trace\\tracer.js:151:103\n    at NoopContextManager.with (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-
+AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\compiled\\@opentelemetry\\api\\index
+.js:1:7062)\n    at ContextAPI.with (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54
+d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\compiled\\@opentelemetry\\api\\index.js:1:518)\n    at 
+NextTracerImpl.trace (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bcc
+ea19ceb40\\node_modules\\next\\dist\\server\\lib\\trace\\tracer.js:151:28)\n    at DevServer.findPageComponents (C:\\Us
+ers\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\nex
+t\\dist\\server\\next-server.js:719:41)\n    at DevServer.findPageComponents (C:\\Users\\pcgam\\.cursor\\projects\\C-Us
+ers-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\dev\\next-dev-serv
+er.js:610:32)\n    at async DevServer.renderErrorToResponseImpl (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-App
+Data-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\base-server.js:2457:26)\n    
+at async pipe.req.req (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bc
+cea19ceb40\\node_modules\\next\\dist\\server\\base-server.js:2382:30)\n    at async DevServer.pipeImpl (C:\\Users\\pcga
+m\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\
+server\\base-server.js:959:25)\n    at async NextNodeServer.handleCatchallRenderRequest (C:\\Users\\pcgam\\.cursor\\pro
+jects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\next-se
+rver.js:296:21)\n    at async DevServer.handleRequestImpl (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-L
+ocal-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\base-server.js:853:17)\n    at async 
+C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_module
+s\\next\\dist\\server\\dev\\next-dev-server.js:371:20\n    at async Span.traceAsyncFn (C:\\Users\\pcgam\\.cursor\\proje
+cts\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\trace\\trace.js:1
+53:20)\n    at async DevServer.handleRequest (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc
+63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\dev\\next-dev-server.js:368:24)\n    at async 
+invokeRender (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb4
+0\\node_modules\\next\\dist\\server\\lib\\router-server.js:230:21)"},"gip":true,"scriptLoader":[]}
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-322186ef-9a44-4fba-b2de-295f3dc75824.ps1:75 car:106
++ ...  { $html = (Invoke-WebRequest -Uri ("http://localhost:3000" + $r) -Us ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc 
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+/servizi info:0 buy:0
+Invoke-WebRequest : body{display:none}body{display:block}{"props":{"pageProps":{"statusCode":500}},"page":"/_error","qu
+ery":{},"buildId":"development","isFallback":false,"err":{"name":"Error","source":"server","message":"Cannot find 
+module './627.js'\nRequire stack:\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54
+d-4228-928c-bccea19ceb40\\.next\\server\\webpack-runtime.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppDa
+ta-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\pages\\_document.js\n- C:\\Users\\pcgam\\.cursor\\pr
+ojects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\requir
+e.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\nod
+e_modules\\next\\dist\\server\\load-components.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-T
+emp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\build\\utils.js\n- C:\\Users\\pcgam\\.cursor\\proje
+cts\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\build\\swc\\optio
+ns.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\no
+de_modules\\next\\dist\\build\\swc\\index.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9
+cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\build\\next-config-ts\\transpile-config.js\n- C:\\Users\
+\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\d
+ist\\server\\config.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c
+-bccea19ceb40\\node_modules\\next\\dist\\server\\next.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-
+Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\lib\\start-server.js","stack":"Error
+: Cannot find module './627.js'\nRequire stack:\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Tem
+p-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\webpack-runtime.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Use
+rs-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\pages\\_document.js\n- C:\\Users\\pcga
+m\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\
+server\\require.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bcc
+ea19ceb40\\node_modules\\next\\dist\\server\\load-components.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-A
+ppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\build\\utils.js\n- C:\\Users\\pcgam\\
+.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\bui
+ld\\swc\\options.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bc
+cea19ceb40\\node_modules\\next\\dist\\build\\swc\\index.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppDat
+a-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\build\\next-config-ts\\transpile-config.js
+\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_mo
+dules\\next\\dist\\server\\config.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-
+b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\next.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-
+pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\lib\\start-server.js\n
+    at Module.\u003canonymous\u003e (node:internal/modules/cjs/loader:1476:15)\n    at C:\\Users\\pcgam\\.cursor\\proje
+cts\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\require-h
+ook.js:55:36\n    at wrapResolveFilename (node:internal/modules/cjs/loader:1049:27)\n    at 
+defaultResolveImplForCJSLoading (node:internal/modules/cjs/loader:1073:10)\n    at resolveForCJSWithHooks 
+(node:internal/modules/cjs/loader:1094:12)\n    at Module._load (node:internal/modules/cjs/loader:1262:25)\n    at 
+wrapModuleLoad (node:internal/modules/cjs/loader:255:19)\n    at Module.\u003canonymous\u003e 
+(node:internal/modules/cjs/loader:1576:12)\n    at mod.require (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppD
+ata-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\require-hook.js:65:28)\n    at 
+require (node:internal/modules/helpers:153:16)\n    at __webpack_require__.f.require (C:\\Users\\pcgam\\.cursor\\projec
+ts\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\webpack-runtime.js:198:28)\n 
+   at C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next
+\\server\\webpack-runtime.js:111:40\n    at Array.reduce (\u003canonymous\u003e)\n    at __webpack_require__.e (C:\\Use
+rs\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\web
+pack-runtime.js:110:67)\n    at Array.map (\u003canonymous\u003e)\n    at __webpack_require__.X (C:\\Users\\pcgam\\.cur
+sor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\webpack-runtime.js
+:162:22)\n    at C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19c
+eb40\\.next\\server\\pages\\_document.js:1:335\n    at Object.\u003canonymous\u003e (C:\\Users\\pcgam\\.cursor\\project
+s\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\pages\\_document.js:1:376)\n  
+  at Module._compile (node:internal/modules/cjs/loader:1830:14)\n    at Object..js 
+(node:internal/modules/cjs/loader:1961:10)\n    at Module.load (node:internal/modules/cjs/loader:1553:32)\n    at 
+Module._load (node:internal/modules/cjs/loader:1355:12)\n    at wrapModuleLoad 
+(node:internal/modules/cjs/loader:255:19)\n    at Module.\u003canonymous\u003e 
+(node:internal/modules/cjs/loader:1576:12)\n    at mod.require (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppD
+ata-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\require-hook.js:65:28)\n    at 
+require (node:internal/modules/helpers:153:16)\n    at requirePage (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-
+AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\require.js:103:84)\n    at 
+loadComponentsImpl (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea
+19ceb40\\node_modules\\next\\dist\\server\\load-components.js:74:38)\n    at DevServer.findPageComponentsImpl (C:\\User
+s\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\
+\dist\\server\\next-server.js:745:77)\n    at C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc
+63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\next-server.js:724:21\n    at C:\\Users\\pcgam\\.c
+ursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\serve
+r\\lib\\trace\\tracer.js:169:36\n    at NoopContextManager.with (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-App
+Data-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\compiled\\@opentelemetry\\api\\index.js
+:1:7062)\n    at ContextAPI.with (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4
+228-928c-bccea19ceb40\\node_modules\\next\\dist\\compiled\\@opentelemetry\\api\\index.js:1:518)\n    at 
+NoopTracer.startActiveSpan (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-92
+8c-bccea19ceb40\\node_modules\\next\\dist\\compiled\\@opentelemetry\\api\\index.js:1:18093)\n    at 
+ProxyTracer.startActiveSpan (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-9
+28c-bccea19ceb40\\node_modules\\next\\dist\\compiled\\@opentelemetry\\api\\index.js:1:18854)\n    at C:\\Users\\pcgam\\
+.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\ser
+ver\\lib\\trace\\tracer.js:151:103\n    at NoopContextManager.with (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-
+AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\compiled\\@opentelemetry\\api\\index
+.js:1:7062)\n    at ContextAPI.with (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54
+d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\compiled\\@opentelemetry\\api\\index.js:1:518)\n    at 
+NextTracerImpl.trace (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bcc
+ea19ceb40\\node_modules\\next\\dist\\server\\lib\\trace\\tracer.js:151:28)\n    at DevServer.findPageComponents (C:\\Us
+ers\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\nex
+t\\dist\\server\\next-server.js:719:41)\n    at DevServer.findPageComponents (C:\\Users\\pcgam\\.cursor\\projects\\C-Us
+ers-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\dev\\next-dev-serv
+er.js:610:32)\n    at async DevServer.renderErrorToResponseImpl (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-App
+Data-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\base-server.js:2457:26)\n    
+at async pipe.req.req (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bc
+cea19ceb40\\node_modules\\next\\dist\\server\\base-server.js:2382:30)\n    at async DevServer.pipeImpl (C:\\Users\\pcga
+m\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\
+server\\base-server.js:959:25)\n    at async NextNodeServer.handleCatchallRenderRequest (C:\\Users\\pcgam\\.cursor\\pro
+jects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\next-se
+rver.js:296:21)\n    at async DevServer.handleRequestImpl (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-L
+ocal-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\base-server.js:853:17)\n    at async 
+C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_module
+s\\next\\dist\\server\\dev\\next-dev-server.js:371:20\n    at async Span.traceAsyncFn (C:\\Users\\pcgam\\.cursor\\proje
+cts\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\trace\\trace.js:1
+53:20)\n    at async DevServer.handleRequest (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc
+63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\dev\\next-dev-server.js:368:24)\n    at async 
+invokeRender (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb4
+0\\node_modules\\next\\dist\\server\\lib\\router-server.js:230:21)"},"gip":true,"scriptLoader":[]}
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-322186ef-9a44-4fba-b2de-295f3dc75824.ps1:75 car:106
++ ...  { $html = (Invoke-WebRequest -Uri ("http://localhost:3000" + $r) -Us ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc 
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+/trattamenti info:0 buy:0
+Invoke-WebRequest : body{display:none}body{display:block}{"props":{"pageProps":{"statusCode":500}},"page":"/_error","qu
+ery":{},"buildId":"development","isFallback":false,"err":{"name":"Error","source":"server","message":"Cannot find 
+module './627.js'\nRequire stack:\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54
+d-4228-928c-bccea19ceb40\\.next\\server\\webpack-runtime.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppDa
+ta-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\pages\\_document.js\n- C:\\Users\\pcgam\\.cursor\\pr
+ojects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\requir
+e.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\nod
+e_modules\\next\\dist\\server\\load-components.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-T
+emp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\build\\utils.js\n- C:\\Users\\pcgam\\.cursor\\proje
+cts\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\build\\swc\\optio
+ns.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\no
+de_modules\\next\\dist\\build\\swc\\index.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9
+cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\build\\next-config-ts\\transpile-config.js\n- C:\\Users\
+\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\d
+ist\\server\\config.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c
+-bccea19ceb40\\node_modules\\next\\dist\\server\\next.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-
+Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\lib\\start-server.js","stack":"Error
+: Cannot find module './627.js'\nRequire stack:\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Tem
+p-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\webpack-runtime.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Use
+rs-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\pages\\_document.js\n- C:\\Users\\pcga
+m\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\
+server\\require.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bcc
+ea19ceb40\\node_modules\\next\\dist\\server\\load-components.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-A
+ppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\build\\utils.js\n- C:\\Users\\pcgam\\
+.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\bui
+ld\\swc\\options.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bc
+cea19ceb40\\node_modules\\next\\dist\\build\\swc\\index.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppDat
+a-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\build\\next-config-ts\\transpile-config.js
+\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_mo
+dules\\next\\dist\\server\\config.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-
+b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\next.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-
+pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\lib\\start-server.js\n
+    at Module.\u003canonymous\u003e (node:internal/modules/cjs/loader:1476:15)\n    at C:\\Users\\pcgam\\.cursor\\proje
+cts\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\require-h
+ook.js:55:36\n    at wrapResolveFilename (node:internal/modules/cjs/loader:1049:27)\n    at 
+defaultResolveImplForCJSLoading (node:internal/modules/cjs/loader:1073:10)\n    at resolveForCJSWithHooks 
+(node:internal/modules/cjs/loader:1094:12)\n    at Module._load (node:internal/modules/cjs/loader:1262:25)\n    at 
+wrapModuleLoad (node:internal/modules/cjs/loader:255:19)\n    at Module.\u003canonymous\u003e 
+(node:internal/modules/cjs/loader:1576:12)\n    at mod.require (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppD
+ata-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\require-hook.js:65:28)\n    at 
+require (node:internal/modules/helpers:153:16)\n    at __webpack_require__.f.require (C:\\Users\\pcgam\\.cursor\\projec
+ts\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\webpack-runtime.js:198:28)\n 
+   at C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next
+\\server\\webpack-runtime.js:111:40\n    at Array.reduce (\u003canonymous\u003e)\n    at __webpack_require__.e (C:\\Use
+rs\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\web
+pack-runtime.js:110:67)\n    at Array.map (\u003canonymous\u003e)\n    at __webpack_require__.X (C:\\Users\\pcgam\\.cur
+sor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\webpack-runtime.js
+:162:22)\n    at C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19c
+eb40\\.next\\server\\pages\\_document.js:1:335\n    at Object.\u003canonymous\u003e (C:\\Users\\pcgam\\.cursor\\project
+s\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\pages\\_document.js:1:376)\n  
+  at Module._compile (node:internal/modules/cjs/loader:1830:14)\n    at Object..js 
+(node:internal/modules/cjs/loader:1961:10)\n    at Module.load (node:internal/modules/cjs/loader:1553:32)\n    at 
+Module._load (node:internal/modules/cjs/loader:1355:12)\n    at wrapModuleLoad 
+(node:internal/modules/cjs/loader:255:19)\n    at Module.\u003canonymous\u003e 
+(node:internal/modules/cjs/loader:1576:12)\n    at mod.require (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppD
+ata-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\require-hook.js:65:28)\n    at 
+require (node:internal/modules/helpers:153:16)\n    at requirePage (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-
+AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\require.js:103:84)\n    at 
+loadComponentsImpl (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea
+19ceb40\\node_modules\\next\\dist\\server\\load-components.js:74:38)\n    at DevServer.findPageComponentsImpl (C:\\User
+s\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\
+\dist\\server\\next-server.js:745:77)\n    at C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc
+63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\next-server.js:724:21\n    at C:\\Users\\pcgam\\.c
+ursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\serve
+r\\lib\\trace\\tracer.js:169:36\n    at NoopContextManager.with (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-App
+Data-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\compiled\\@opentelemetry\\api\\index.js
+:1:7062)\n    at ContextAPI.with (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4
+228-928c-bccea19ceb40\\node_modules\\next\\dist\\compiled\\@opentelemetry\\api\\index.js:1:518)\n    at 
+NoopTracer.startActiveSpan (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-92
+8c-bccea19ceb40\\node_modules\\next\\dist\\compiled\\@opentelemetry\\api\\index.js:1:18093)\n    at 
+ProxyTracer.startActiveSpan (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-9
+28c-bccea19ceb40\\node_modules\\next\\dist\\compiled\\@opentelemetry\\api\\index.js:1:18854)\n    at C:\\Users\\pcgam\\
+.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\ser
+ver\\lib\\trace\\tracer.js:151:103\n    at NoopContextManager.with (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-
+AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\compiled\\@opentelemetry\\api\\index
+.js:1:7062)\n    at ContextAPI.with (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54
+d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\compiled\\@opentelemetry\\api\\index.js:1:518)\n    at 
+NextTracerImpl.trace (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bcc
+ea19ceb40\\node_modules\\next\\dist\\server\\lib\\trace\\tracer.js:151:28)\n    at DevServer.findPageComponents (C:\\Us
+ers\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\nex
+t\\dist\\server\\next-server.js:719:41)\n    at DevServer.findPageComponents (C:\\Users\\pcgam\\.cursor\\projects\\C-Us
+ers-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\dev\\next-dev-serv
+er.js:610:32)\n    at async DevServer.renderErrorToResponseImpl (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-App
+Data-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\base-server.js:2457:26)\n    
+at async pipe.req.req (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bc
+cea19ceb40\\node_modules\\next\\dist\\server\\base-server.js:2382:30)\n    at async DevServer.pipeImpl (C:\\Users\\pcga
+m\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\
+server\\base-server.js:959:25)\n    at async NextNodeServer.handleCatchallRenderRequest (C:\\Users\\pcgam\\.cursor\\pro
+jects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\next-se
+rver.js:296:21)\n    at async DevServer.handleRequestImpl (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-L
+ocal-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\base-server.js:853:17)\n    at async 
+C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_module
+s\\next\\dist\\server\\dev\\next-dev-server.js:371:20\n    at async Span.traceAsyncFn (C:\\Users\\pcgam\\.cursor\\proje
+cts\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\trace\\trace.js:1
+53:20)\n    at async DevServer.handleRequest (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc
+63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\dev\\next-dev-server.js:368:24)\n    at async 
+invokeRender (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb4
+0\\node_modules\\next\\dist\\server\\lib\\router-server.js:230:21)"},"gip":true,"scriptLoader":[]}
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-322186ef-9a44-4fba-b2de-295f3dc75824.ps1:75 car:106
++ ...  { $html = (Invoke-WebRequest -Uri ("http://localhost:3000" + $r) -Us ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc 
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+/prodotti info:0 buy:0
+Invoke-WebRequest : body{display:none}body{display:block}{"props":{"pageProps":{"statusCode":500}},"page":"/_error","qu
+ery":{},"buildId":"development","isFallback":false,"err":{"name":"Error","source":"server","message":"Cannot find 
+module './627.js'\nRequire stack:\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54
+d-4228-928c-bccea19ceb40\\.next\\server\\webpack-runtime.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppDa
+ta-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\app\\(site)\\voucher-regalo\\page.js\n- C:\\Users\\p
+cgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dis
+t\\server\\require.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-
+bccea19ceb40\\node_modules\\next\\dist\\server\\load-components.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcga
+m-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\build\\utils.js\n- C:\\Users\\pcga
+m\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\
+build\\swc\\options.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c
+-bccea19ceb40\\node_modules\\next\\dist\\build\\swc\\index.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-App
+Data-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\build\\next-config-ts\\transpile-config
+.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node
+_modules\\next\\dist\\server\\config.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc633
+90-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\next.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Use
+rs-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\lib\\start-server.j
+s","stack":"Error: Cannot find module './627.js'\nRequire stack:\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-
+AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\webpack-runtime.js\n- C:\\Users\\pcgam\\.cursor
+\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\app\\(site)\\voucher-
+regalo\\page.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea1
+9ceb40\\node_modules\\next\\dist\\server\\require.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Loca
+l-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\load-components.js\n- C:\\Users\\pcgam\\
+.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\bui
+ld\\utils.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ce
+b40\\node_modules\\next\\dist\\build\\swc\\options.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Loc
+al-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\build\\swc\\index.js\n- C:\\Users\\pcgam\\.curs
+or\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\build\\n
+ext-config-ts\\transpile-config.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b5
+4d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\config.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-
+pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\next.js\n- C:\\Users\\
+pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\di
+st\\server\\lib\\start-server.js\n    at Module.\u003canonymous\u003e (node:internal/modules/cjs/loader:1476:15)\n    
+at C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_mod
+ules\\next\\dist\\server\\require-hook.js:55:36\n    at wrapResolveFilename 
+(node:internal/modules/cjs/loader:1049:27)\n    at defaultResolveImplForCJSLoading 
+(node:internal/modules/cjs/loader:1073:10)\n    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1094:12)\n 
+   at Module._load (node:internal/modules/cjs/loader:1262:25)\n    at wrapModuleLoad 
+(node:internal/modules/cjs/loader:255:19)\n    at Module.\u003canonymous\u003e 
+(node:internal/modules/cjs/loader:1576:12)\n    at mod.require (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppD
+ata-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\require-hook.js:65:28)\n    at 
+require (node:internal/modules/helpers:153:16)\n    at __webpack_require__.f.require (C:\\Users\\pcgam\\.cursor\\projec
+ts\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\webpack-runtime.js:198:28)\n 
+   at C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next
+\\server\\webpack-runtime.js:111:40\n    at Array.reduce (\u003canonymous\u003e)\n    at __webpack_require__.e (C:\\Use
+rs\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\web
+pack-runtime.js:110:67)\n    at Array.map (\u003canonymous\u003e)\n    at __webpack_require__.X (C:\\Users\\pcgam\\.cur
+sor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\webpack-runtime.js
+:162:22)\n    at C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19c
+eb40\\.next\\server\\pages\\_document.js:1:335\n    at Object.\u003canonymous\u003e (C:\\Users\\pcgam\\.cursor\\project
+s\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\pages\\_document.js:1:376)\n  
+  at Module._compile (node:internal/modules/cjs/loader:1830:14)\n    at Object..js 
+(node:internal/modules/cjs/loader:1961:10)\n    at Module.load (node:internal/modules/cjs/loader:1553:32)\n    at 
+Module._load (node:internal/modules/cjs/loader:1355:12)\n    at wrapModuleLoad 
+(node:internal/modules/cjs/loader:255:19)\n    at Module.\u003canonymous\u003e 
+(node:internal/modules/cjs/loader:1576:12)\n    at mod.require (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppD
+ata-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\require-hook.js:65:28)\n    at 
+require (node:internal/modules/helpers:153:16)\n    at requirePage (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-
+AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\require.js:103:84)\n    at 
+loadComponentsImpl (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea
+19ceb40\\node_modules\\next\\dist\\server\\load-components.js:74:38)\n    at DevServer.findPageComponentsImpl (C:\\User
+s\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\
+\dist\\server\\next-server.js:745:77)\n    at C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc
+63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\next-server.js:724:21\n    at C:\\Users\\pcgam\\.c
+/voucher-regalo info:0 buy:0
+ursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\serve
+r\\lib\\trace\\tracer.js:169:36\n    at NoopContextManager.with (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-App
+Data-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\compiled\\@opentelemetry\\api\\index.js
+:1:7062)\n    at ContextAPI.with (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4
+228-928c-bccea19ceb40\\node_modules\\next\\dist\\compiled\\@opentelemetry\\api\\index.js:1:518)\n    at 
+NoopTracer.startActiveSpan (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-92
+8c-bccea19ceb40\\node_modules\\next\\dist\\compiled\\@opentelemetry\\api\\index.js:1:18093)\n    at 
+ProxyTracer.startActiveSpan (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-9
+28c-bccea19ceb40\\node_modules\\next\\dist\\compiled\\@opentelemetry\\api\\index.js:1:18854)\n    at C:\\Users\\pcgam\\
+.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\ser
+ver\\lib\\trace\\tracer.js:151:103\n    at NoopContextManager.with (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-
+AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\compiled\\@opentelemetry\\api\\index
+.js:1:7062)\n    at ContextAPI.with (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54
+d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\compiled\\@opentelemetry\\api\\index.js:1:518)\n    at 
+NextTracerImpl.trace (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bcc
+ea19ceb40\\node_modules\\next\\dist\\server\\lib\\trace\\tracer.js:151:28)\n    at DevServer.findPageComponents (C:\\Us
+ers\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\nex
+t\\dist\\server\\next-server.js:719:41)\n    at DevServer.findPageComponents (C:\\Users\\pcgam\\.cursor\\projects\\C-Us
+ers-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\dev\\next-dev-serv
+er.js:610:32)\n    at async DevServer.renderErrorToResponseImpl (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-App
+Data-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\base-server.js:2457:26)\n    
+at async pipe.req.req (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bc
+cea19ceb40\\node_modules\\next\\dist\\server\\base-server.js:2382:30)\n    at async DevServer.pipeImpl (C:\\Users\\pcga
+m\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\
+server\\base-server.js:959:25)\n    at async NextNodeServer.handleCatchallRenderRequest (C:\\Users\\pcgam\\.cursor\\pro
+jects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\next-se
+rver.js:296:21)\n    at async DevServer.handleRequestImpl (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-L
+ocal-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\base-server.js:853:17)\n    at async 
+C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_module
+s\\next\\dist\\server\\dev\\next-dev-server.js:371:20\n    at async Span.traceAsyncFn (C:\\Users\\pcgam\\.cursor\\proje
+cts\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\trace\\trace.js:1
+53:20)\n    at async DevServer.handleRequest (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc
+63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\dev\\next-dev-server.js:368:24)\n    at async 
+invokeRender (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb4
+0\\node_modules\\next\\dist\\server\\lib\\router-server.js:230:21)"},"gip":true,"scriptLoader":[]}
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-322186ef-9a44-4fba-b2de-295f3dc75824.ps1:75 car:106
++ ...  { $html = (Invoke-WebRequest -Uri ("http://localhost:3000" + $r) -Us ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc 
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+Invoke-WebRequest : body{display:none}body{display:block}{"props":{"pageProps":{"statusCode":500}},"page":"/_error","qu
+ery":{},"buildId":"development","isFallback":false,"err":{"name":"Error","source":"server","message":"Cannot find 
+module './627.js'\nRequire stack:\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54
+d-4228-928c-bccea19ceb40\\.next\\server\\webpack-runtime.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppDa
+ta-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\app\\_not-found\\page.js\n- C:\\Users\\pcgam\\.curso
+r\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\r
+equire.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40
+\\node_modules\\next\\dist\\server\\load-components.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Lo
+cal-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\build\\utils.js\n- C:\\Users\\pcgam\\.cursor\\
+projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\build\\swc\\
+options.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb4
+0\\node_modules\\next\\dist\\build\\swc\\index.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-T
+emp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\build\\next-config-ts\\transpile-config.js\n- C:\\U
+sers\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\ne
+xt\\dist\\server\\config.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228
+-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\next.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-App
+Data-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\lib\\start-server.js","stack":"
+Error: Cannot find module './627.js'\nRequire stack:\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Loca
+l-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\webpack-runtime.js\n- C:\\Users\\pcgam\\.cursor\\projects\\
+C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\app\\_not-found\\page.js\n- C:\\U
+sers\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\ne
+xt\\dist\\server\\require.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-422
+8-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\load-components.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Use
+rs-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\build\\utils.js\n- C:\\User
+s\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\
+\dist\\build\\swc\\options.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-42
+28-928c-bccea19ceb40\\node_modules\\next\\dist\\build\\swc\\index.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pc
+gam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\build\\next-config-ts\\transpile
+-config.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb4
+0\\node_modules\\next\\dist\\server\\config.js\n- C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp
+-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\next.js\n- C:\\Users\\pcgam\\.cursor\\projects
+\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\lib\\start-s
+erver.js\n    at Module.\u003canonymous\u003e (node:internal/modules/cjs/loader:1476:15)\n    at C:\\Users\\pcgam\\.cur
+sor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\
+\require-hook.js:55:36\n    at wrapResolveFilename (node:internal/modules/cjs/loader:1049:27)\n    at 
+defaultResolveImplForCJSLoading (node:internal/modules/cjs/loader:1073:10)\n    at resolveForCJSWithHooks 
+(node:internal/modules/cjs/loader:1094:12)\n    at Module._load (node:internal/modules/cjs/loader:1262:25)\n    at 
+wrapModuleLoad (node:internal/modules/cjs/loader:255:19)\n    at Module.\u003canonymous\u003e 
+(node:internal/modules/cjs/loader:1576:12)\n    at mod.require (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppD
+ata-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\require-hook.js:65:28)\n    at 
+require (node:internal/modules/helpers:153:16)\n    at __webpack_require__.f.require (C:\\Users\\pcgam\\.cursor\\projec
+ts\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\webpack-runtime.js:198:28)\n 
+   at C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next
+\\server\\webpack-runtime.js:111:40\n    at Array.reduce (\u003canonymous\u003e)\n    at __webpack_require__.e (C:\\Use
+rs\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\web
+pack-runtime.js:110:67)\n    at Array.map (\u003canonymous\u003e)\n    at __webpack_require__.X (C:\\Users\\pcgam\\.cur
+sor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\webpack-runtime.js
+:162:22)\n    at C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19c
+eb40\\.next\\server\\pages\\_document.js:1:335\n    at Object.\u003canonymous\u003e (C:\\Users\\pcgam\\.cursor\\project
+s\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\.next\\server\\pages\\_document.js:1:376)\n  
+  at Module._compile (node:internal/modules/cjs/loader:1830:14)\n    at Object..js 
+(node:internal/modules/cjs/loader:1961:10)\n    at Module.load (node:internal/modules/cjs/loader:1553:32)\n    at 
+Module._load (node:internal/modules/cjs/loader:1355:12)\n    at wrapModuleLoad 
+(node:internal/modules/cjs/loader:255:19)\n    at Module.\u003canonymous\u003e 
+(node:internal/modules/cjs/loader:1576:12)\n    at mod.require (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppD
+ata-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\require-hook.js:65:28)\n    at 
+require (node:internal/modules/helpers:153:16)\n    at requirePage (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-
+AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\require.js:103:84)\n    at 
+loadComponentsImpl (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea
+19ceb40\\node_modules\\next\\dist\\server\\load-components.js:74:38)\n    at DevServer.findPageComponentsImpl (C:\\User
+s\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\
+\dist\\server\\next-server.js:745:77)\n    at C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc
+63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\next-server.js:724:21\n    at C:\\Users\\pcgam\\.c
+ursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\serve
+r\\lib\\trace\\tracer.js:169:36\n    at NoopContextManager.with (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-App
+Data-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\compiled\\@opentelemetry\\api\\index.js
+:1:7062)\n    at ContextAPI.with (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4
+228-928c-bccea19ceb40\\node_modules\\next\\dist\\compiled\\@opentelemetry\\api\\index.js:1:518)\n    at 
+NoopTracer.startActiveSpan (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-92
+8c-bccea19ceb40\\node_modules\\next\\dist\\compiled\\@opentelemetry\\api\\index.js:1:18093)\n    at 
+ProxyTracer.startActiveSpan (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-9
+28c-bccea19ceb40\\node_modules\\next\\dist\\compiled\\@opentelemetry\\api\\index.js:1:18854)\n    at C:\\Users\\pcgam\\
+.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\ser
+ver\\lib\\trace\\tracer.js:151:103\n    at NoopContextManager.with (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-
+AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\compiled\\@opentelemetry\\api\\index
+.js:1:7062)\n    at ContextAPI.with (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54
+d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\compiled\\@opentelemetry\\api\\index.js:1:518)\n    at 
+NextTracerImpl.trace (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bcc
+ea19ceb40\\node_modules\\next\\dist\\server\\lib\\trace\\tracer.js:151:28)\n    at DevServer.findPageComponents (C:\\Us
+ers\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\nex
+t\\dist\\server\\next-server.js:719:41)\n    at DevServer.findPageComponents (C:\\Users\\pcgam\\.cursor\\projects\\C-Us
+ers-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\dev\\next-dev-serv
+er.js:610:32)\n    at async DevServer.renderErrorToResponseImpl (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-App
+Data-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\base-server.js:2457:26)\n    
+at async pipe.req.req (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bc
+cea19ceb40\\node_modules\\next\\dist\\server\\base-server.js:2382:30)\n    at async DevServer.pipeImpl (C:\\Users\\pcga
+m\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\
+server\\base-server.js:959:25)\n    at async NextNodeServer.handleCatchallRenderRequest (C:\\Users\\pcgam\\.cursor\\pro
+jects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\next-se
+rver.js:296:21)\n    at async DevServer.handleRequestImpl (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-L
+ocal-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\base-server.js:853:17)\n    at async 
+C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_module
+s\\next\\dist\\server\\dev\\next-dev-server.js:371:20\n    at async Span.traceAsyncFn (C:\\Users\\pcgam\\.cursor\\proje
+cts\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\trace\\trace.js:1
+53:20)\n    at async DevServer.handleRequest (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc
+63390-b54d-4228-928c-bccea19ceb40\\node_modules\\next\\dist\\server\\dev\\next-dev-server.js:368:24)\n    at async 
+invokeRender (C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb4
+0\\node_modules\\next\\dist\\server\\lib\\router-server.js:230:21)"},"gip":true,"scriptLoader":[]}
+In C:\Users\pcgam\AppData\Local\Temp\ps-script-322186ef-9a44-4fba-b2de-295f3dc75824.ps1:75 car:415
++ ...  ; $home = (Invoke-WebRequest -Uri 'http://localhost:3000' -UseBasicP ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidOperation: (System.Net.HttpWebRequest:HttpWebRequest) [Invoke-WebRequest], WebExc 
+   eption
+    + FullyQualifiedErrorId : WebCmdletWebResponseException,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+home mapFloat:False

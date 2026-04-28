@@ -1,0 +1,84 @@
+---
+pid: 2312
+cwd: "C:\\Users\\pcgam\\.cursor\\projects\\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40"
+command: "$env:Path = [System.Environment]::GetEnvironmentVariable(\"Path\",\"Machine\") + \";\" + [System.Environment]::GetEnvironmentVariable(\"Path\",\"User\"); & \"C:\\Program Files\\nodejs\\npm.cmd\" run dev"
+started_at: 2026-04-28T03:47:08.224Z
+running_for_ms: 600792   
+---
+
+> healthysan-landing@0.1.0 dev
+> next dev
+
+   ▲ Next.js 15.1.3
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.0.59:3000
+
+ ✓ Starting...
+ ✓ Ready in 1622ms
+ ○ Compiling / ...
+ ✓ Compiled / in 4s (1465 modules)
+ GET / 200 in 4351ms
+ ✓ Compiled in 420ms (698 modules)
+ GET / 200 in 72ms
+ ✓ Compiled /_not-found in 284ms (1428 modules)
+ GET /images/retinol%20bioline.jpg 404 in 441ms
+ GET /images/retinol%20bioline.png 404 in 9ms
+ ✓ Compiled /scheda-cliente in 355ms (1434 modules)
+ GET /scheda-cliente 200 in 461ms
+ ✓ Compiled in 391ms (1448 modules)
+ GET /scheda-cliente 200 in 124ms
+ ✓ Compiled in 242ms (1448 modules)
+ GET /scheda-cliente 200 in 57ms
+ ✓ Compiled in 112ms (701 modules)
+ GET /scheda-cliente 200 in 21ms
+ ✓ Compiled in 234ms (1448 modules)
+ GET /scheda-cliente 200 in 77ms
+ ✓ Compiled in 126ms (701 modules)
+ GET /scheda-cliente 200 in 19ms
+ ✓ Compiled in 106ms (701 modules)
+ GET /scheda-cliente 200 in 20ms
+ ✓ Compiled in 402ms (1448 modules)
+ GET /scheda-cliente 200 in 54ms
+ ✓ Compiled in 109ms (701 modules)
+ GET /scheda-cliente 200 in 19ms
+ ✓ Compiled in 256ms (1448 modules)
+ GET /scheda-cliente 200 in 84ms
+ ⨯ Error: Cannot find module './635.js'
+Require stack:
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\(site)\scheda-cliente\page.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\require.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\load-components.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\utils.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\swc\options.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\swc\index.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\build\next-config-ts\transpile-config.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\config.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\next.js
+- C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\node_modules\next\dist\server\lib\start-server.js
+    at __webpack_require__.f.require (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:198:28)
+    at <unknown> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:111:40)
+    at Array.reduce (<anonymous>)
+    at __webpack_require__.e (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:110:67)
+    at Array.map (<anonymous>)
+    at __webpack_require__.X (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\webpack-runtime.js:162:22)
+    at <unknown> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\(site)\page.js:1:23413)
+    at Object.<anonymous> (C:\Users\pcgam\.cursor\projects\C-Users-pcgam-AppData-Local-Temp-9cc63390-b54d-4228-928c-bccea19ceb40\.next\server\app\(site)\page.js:1:23472) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [Array],
+  page: '/'
+}
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 970ms (1676 modules)
+ GET /scheda-cliente 200 in 427ms
+ GET /scheda-cliente 200 in 11ms
+ GET / 500 in 1579ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 722ms (1680 modules)
+ GET /_next/static/css/app/layout.css?v=1777348617629 404 in 889ms
+
+---
+exit_code: 4294967295
+elapsed_ms: 601007
+ended_at: 2026-04-28T03:57:09.231Z
+---
